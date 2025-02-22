@@ -944,24 +944,24 @@
 •PF: Heylen                   •C: TVNZ               •FS: 1991-02-02 •FE: 1991-02-02                 •SC: N            NAT: 46 LAB: 38 NLP: 4 SC: 2
 •PF: Heylen                   •C: TVNZ               •FS: 1990-12-08 •FE: 1990-12-08                 •SC: N            NAT: 50 LAB: 32 NLP: 5 SC: 1
 
-ACT:      NZ007 •A: ACT      •EN: ACT New Zealand                      •MI: Rōpū ACT
-ALLIANCE: NZ005 •A: Alliance •EN: Alliance
-ANZ:      NZ018 •A: ANZ      •EN: Advance New Zealand Party
-CON:      NZ015 •A: CON      •EN: New Conservative
-DESTINY:  NZ013 •A: Destiny  •EN: Destiny New Zealand
-GRN:      NZ009 •A: GRN      •EN: Green Party of Aotearoa New Zealand  •MI: Rōpū Kākāriki o Aotearoa, Niu Tireni
-INTERNET: NZ016 •A: Internet •EN: Internet Party
-LAB:      NZ002 •A: LAB      •EN: New Zealand Labour Party             •MI: Rōpū Reipa o Aotearoa
-MANA:     NZ014 •A: MANA     •EN: Mana Movement
-NAT:      NZ001 •A: NAT      •EN: New Zealand National Party           •MI: Rōpū Nāhinara o Aotearoa
-NCP:      NZ019 •A: NCP      •EN: New Conservatives
-NLP:      NZ003 •A: NLP      •EN: NewLabour Party
-NZFIRST:  NZ006 •A: NZ First •EN: New Zealand First                    •MI: Aotearoa Tuatahi
-NZL:      NZ020 •A: NZL      •EN: New Zealand Loyal
-NZOFP:    NZ021 •A: NZOFP    •EN: New Zealand Outdoors & Freedom Party
-PROG:     NZ011 •A: Prog     •EN: Jim Anderton’s Progressive Party
-SC:       NZ004 •A: SC       •EN: Social Credit-NZ
-TOP:      NZ017 •A: TOP      •EN: The Opportunities Party
-TPM:      NZ012 •A: TPM                                                •MI: Te Pāti Māori
-UNF:      NZ010 •A: UNF      •EN: United Future New Zealand
-UNITED:   NZ008 •A: United   •EN: United New Zealand                   •MI: Unaititi Aotearoa
+ACT:      NZ199401 •A: ACT      •EN: ACT New Zealand                      •MI: Rōpū ACT
+ALLIANCE: NZ199101 •A: Alliance •EN: Alliance
+ANZ:      NZ202001 •A: ANZ      •EN: Advance New Zealand Party
+CON:      NZ201102 •A: CON      •EN: New Conservative
+DESTINY:  NZ200301 •A: Destiny  •EN: Destiny New Zealand
+GRN:      NZ199001 •A: GRN      •EN: Green Party of Aotearoa New Zealand  •MI: Rōpū Kākāriki o Aotearoa, Niu Tireni
+INTERNET: NZ201401 •A: Internet •EN: Internet Party
+LAB:      NZ191601 •A: LAB      •EN: New Zealand Labour Party             •MI: Rōpū Reipa o Aotearoa
+MANA:     NZ201101 •A: MANA     •EN: Mana Movement
+NAT:      NZ193601 •A: NAT      •EN: New Zealand National Party           •MI: Rōpū Nāhinara o Aotearoa
+NCP:      NZ201103 •A: NCP      •EN: New Conservatives
+NLP:      NZ198901 •A: NLP      •EN: NewLabour Party
+NZFIRST:  NZ199301 •A: NZ First •EN: New Zealand First                    •MI: Aotearoa Tuatahi
+NZL:      NZ202301 •A: NZL      •EN: New Zealand Loyal
+NZOFP:    NZ201501 •A: NZOFP    •EN: New Zealand Outdoors & Freedom Party
+PROG:     NZ200201 •A: Prog     •EN: Jim Anderton’s Progressive Party
+SC:       NZ198801 •A: SC       •EN: Social Credit-NZ
+TOP:      NZ201601 •A: TOP      •EN: The Opportunities Party
+TPM:      NZ200401 •A: TPM                                                •MI: Te Pāti Māori
+UNF:      NZ200001 •A: UNF      •EN: United Future New Zealand
+UNITED:   NZ199501 •A: United   •EN: United New Zealand                   •MI: Unaititi Aotearoa
