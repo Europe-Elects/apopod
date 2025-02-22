@@ -2615,10 +2615,10 @@
 •PF: Newspoll                       •C: The Australian •FS: 2007-11-20 •FE: 2007-11-22 •SC: N                    ALP: 44 LP: 39 GRN: 7 NP: 4                        •O: 6
 &                                                                                      •SC: N2                   ALP: 52 LP: 48
 
-ALP: AU001 •A: ALP •EN: Australian Labor Party
-CON: AU007 •A: CON •EN: Australian Conservatives
-GRN: AU003 •A: GRN •EN: Australian Greens
-LP:  AU002 •A: LP  •EN: Liberal Party of Australia
-NP:  AU004 •A: NP  •EN: National Party of Australia
-ONP: AU005 •A: ONP •EN: Pauline Hanson’s One Nation
-UAP: AU006 •A: UAP •EN: United Australia Party
+ALP: AU190101 •A: ALP •EN: Australian Labor Party
+CON: AU201701 •A: CON •EN: Australian Conservatives
+GRN: AU199201 •A: GRN •EN: Australian Greens
+LP:  AU194401 •A: LP  •EN: Liberal Party of Australia
+NP:  AU192001 •A: NP  •EN: National Party of Australia
+ONP: AU199701 •A: ONP •EN: Pauline Hanson’s One Nation
+UAP: AU201301 •A: UAP •EN: United Australia Party
