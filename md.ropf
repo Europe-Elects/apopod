@@ -1,4 +1,4 @@
-•PF: Intellect Group •FS: 2025-02-13 •FE: 2025-02-21 •SC: N •SS: 1179 •EX: 33.7 PAS: 28.9 PSRM: 13.6 PN: 6.1 BV: 4.4 PCRM: 1.4 BÎ: 1.2 PRIM: 2.8 BA: 7.7
+•PF: Intellect Group •FS: 2025-02-13 •FE: 2025-02-21 •SC: N •SS: 1179 •N: 33.7 PAS: 28.9 BCS: 15.0 PN: 6.1 VICTORIE: 4.4 ÎMPREUNĂ: 1.2 PRIM: 2.8 BA: 7.7
 •PF: iData                        •C: IPP                        •FS: 2024-12-02 •FE: 2024-12-08 •SC: N •SS: 1006 PAS: 44.0 BCS: 22.8 VICTORIE: 13.9 PN: 6.9  PPDA+PS: 1.6 CUB: 1.2 PSDE: 0.8 PDA: 0.1          PDCM: 1.9 MAN: 5.3          
 •PF: CBS Research                 •C: WatchDog                   •FS: 2024-10-11 •FE: 2024-10-16 •SC: N •SS: 1034 PAS: 58.3 BCS: 18.8 VICTORIE:  7.7 PN: 7.7  ÎMPREUNĂ: 0.9         PSDE: 0.9                   PDCM: 1.1 MAN: 0.5           VIITORUL: 2.7
 •PF: Intellect Group                                             •FS: 2024-10-13 •FE: 2024-10-15 •SC: N •SS: 985  PAS: 40.2 BCS: 21.0 ȘOR: 12.7      PN: 14.8                                                             MAN: 4.7                         •O: 6.5
@@ -100,9 +100,11 @@ VICTORIE: MD017 •A: Victorie   •EN: Victory                                 
 ȘOR:      MD018 •A: ȘOR        •EN: Chance. Duties. Realization.                      •RO: Șansă, Obligații, Realizări                      •RU: Шанс. Обязанности. Реализация.
 ȘOR1998:  MD003 •A: ȘOR (1998) •EN: ȘOR Party                                         •RO: Partidul „ȘOR”
 VIITORUL: MD020 •A: Viitorul   •EN: Future of Moldova Party                           •RO: Partidul „Viitorul Moldovei”
+BA: MD022 •A: BA •EN: Alternative Bloc •RO: Bloc Alternativa
 
 ‡ Named alliances:
 ‡ BCS = PSRM + PCRM
 ‡ Împreună = Platforma DA (PDA), Coaliția pentru Unitate și Bunăstare (CUB), Partidul Schimbării (PS) și Liga Orașelor și Comunelor (LOC)
 ‡ ȘOR = ȘOR (1998) + Șansă + FASM
 ‡ Victorie = Șansă + PR
+‡ BA = CC + PDCM + MAN
