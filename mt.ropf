@@ -1,4 +1,5 @@
-•PF: Esprimi         •C: Times of Malta •FS: 2025-01-30 •FE: 2025-02-12 •SC: N •SS: 600 PL: 51.5 PN: 45 •O: 3.5
+•PF: MaltaToday                      •FS: 2025-01-29 •FE: 2025-02-13 •SC: N •SS: 672            PL: 48.2 PN: 43.9 M: 4 ADPD: 3.4           •O: 0.5
+•PF: Esprimi      •C: Times of Malta •FS: 2025-01-30 •FE: 2025-02-12 •SC: N •SS: 600            PL: 51.5 PN: 45                            •O: 3.5
 •PF: MaltaToday                      •FS: 2024-11-05 •FE: 2024-11-13 •SC: N •SS: 707  •EX: 29.4 PN: 46.3 PL: 45.3 ADPD: 4.1                •O: 4.2
 •PF: Sagalytics   •C: It-Torċa       •FS: 2024-10-02 •FE: 2024-10-09 •SC: N •SS: 1000 •EX: 20   PL: 48.3 PN: 44.1 ADPD: 4.0
 •PF: MaltaToday                      •FS: 2024-09-11 •FE: 2024-09-19 •SC: N •SS: 712  •EX: 24.3 PN: 48.2 PL: 43.8 ADPD: 4.5                •O: 3.5
@@ -102,10 +103,11 @@
 •PF: Sagalytics   •C: It-Torċa       •FS: 2018-02-12 •FE: 2018-02-20 •SC: N •SS: 600  •EX: 23.0 PL: 60.5 PN: 37.5                          •O: 1.9
 •PF: MaltaToday                      •FS: 2018-01-23 •FE: 2018-01-29 •SC: N •SS: 501  •EX: 27.9 PL: 58.3 PN: 40.1 AD: 1.7 MPM: 0.0 PD: 0.0 •O: 0.0
 
-AD:   MT003 •A: AD   •EN: Democratic Alternative    •MT: Alternattiva Demokratika
-ADPD: MT006 •A: ADPD •EN: ADPD                      •MT: ADPD
-IE:   MT007 •A: IE   •EN: Imperium Europa           •MT: Imperium Europa
-MPM:  MT005 •A: MPM  •EN: Maltese Patriots Movement •MT: Moviment Patrijotti Maltin
-PD:   MT004 •A: PD   •EN: Democratic Party          •MT: Partit Demokratiku
-PL:   MT001 •A: PL   •EN: Labour Party              •MT: Partit Laburista
-PN:   MT002 •A: PN   •EN: Nationalist Party         •MT: Partit Nazzjonalista
+AD:   MT003    •A: AD   •EN: Democratic Alternative    •MT: Alternattiva Demokratika
+ADPD: MT006    •A: ADPD •EN: ADPD                      •MT: ADPD
+IE:   MT007    •A: IE   •EN: Imperium Europa           •MT: Imperium Europa
+M:    MT202501 •A: M    •EN: Momentum                  •MT: Partit Momentum
+MPM:  MT005    •A: MPM  •EN: Maltese Patriots Movement •MT: Moviment Patrijotti Maltin
+PD:   MT004    •A: PD   •EN: Democratic Party          •MT: Partit Demokratiku
+PL:   MT001    •A: PL   •EN: Labour Party              •MT: Partit Laburista
+PN:   MT002    •A: PN   •EN: Nationalist Party         •MT: Partit Nazzjonalista
