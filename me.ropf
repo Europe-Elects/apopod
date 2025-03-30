@@ -68,7 +68,7 @@
 •PF: CeDem                                              •FS: 2010-10    •FE: 2010-10                    •SC: N                     BS+ECG: 56.9 СНПЦГ: 17.8 НСД: 9.2 PZP: 4.7                                                                                                                                           •O: 11.3
 •PF: CeDem                                              •FS: 2010-07    •FE: 2010-07                    •SC: N                     BS+ECG: 53.2 СНПЦГ: 18.6 НСД: 8.1 PZP: 4.9                                                                                                                                           •O: 15.2
 
-ASH:   ME011    •A: ASh                                      •CNR: Albanska alternativa                          •EN: Albanian Alternative                         •SQ: Alternativa Shqiptare
+ASH:   ME200603 •A: ASh                                      •CNR: Albanska alternativa                          •EN: Albanian Alternative                         •SQ: Alternativa Shqiptare
 BS:    ME200601 •A: BS                •BS: Bošnjačka stranka                                                     •EN: Bosniak Party
 CIVIS: ME027    •A: Civis                                    •CNR: Savez građana „Civis”                         •EN: Citizens’ Union “Civis”
 CNB:   ME018    •A: CnB                                      •CNR: Otvorena građanska platforma „Crno na bijelo” •EN: Civic Platform “In Black and White”
@@ -78,7 +78,7 @@ DF:    ME201202 •A: DF                                       •CNR: Демо�
 DPS:   ME199101 •A: DPS                                      •CNR: Demokratska partija socijalista Crne Gore     •EN: Democratic Party of Socialists of Montenegro
 ECG:   ME199801 •A: ECG                                      •CNR: Evropska Crna Gora                            •EN: European Montenegro
 ES:    ME029    •A: ES                                       •CNR: Evropski savez
-FORCA: ME010    •A: FORCA                                    •CNR: Nova demokratska snaga                        •EN: New Democratic Force                         •SQ: Forca e Re Demokratike
+FORCA: ME200501 •A: FORCA                                    •CNR: Nova demokratska snaga                        •EN: New Democratic Force                         •SQ: Forca e Re Demokratike
 LP:    ME020    •A: LP                                       •CNR: Liberalna partija Crne Gore                   •EN: Liberal Party of Montenegro
 LSH:   ME015    •A: LSh                                      •CNR: Albanska lista                                •EN: Albanian List                                •SQ: Lista Shqiptare
 MJNN:  ME017    •A: MjNN                                     •CNR: Mir je naša nacija                            •EN: Peace is Our Nation
@@ -99,7 +99,7 @@ URA:   ME201503 •A: URA                                      •CNR: Građansk
 ПРАВА: ME012    •A: Права  •R: Prava                                                                             •EN: True Montenegro                                                                   •SR: Права Црна Гора
 РП:    ME028    •A: РП     •R: RP                                                                                •EN: Workers’ Party or Labour Party                                                    •SR: Радничка партија
 СНПЦГ: ME199802 •A: СНП ЦГ •R: SNP CG                                                                            •EN: Socialist People’s Party of Montenegro                                            •SR: Социјалистичка народна партија Црне Горе
-УЦГ:   ME013    •A: УЦГ    •R: UCG                                                                               •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
+УЦГ:   ME201701 •A: УЦГ    •R: UCG                                                                               •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
 
 ‡ Named alliances:
 ‡ CNB = URA + CIVIS/…
