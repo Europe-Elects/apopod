@@ -80,8 +80,8 @@ ECG:   ME199801 •A: ECG                                      •CNR: Evropska 
 ES:    ME029    •A: ES                                       •CNR: Evropski savez
 FORCA: ME200501 •A: FORCA                                    •CNR: Nova demokratska snaga                        •EN: New Democratic Force                         •SQ: Forca e Re Demokratike
 LP:    ME020    •A: LP                                       •CNR: Liberalna partija Crne Gore                   •EN: Liberal Party of Montenegro
-LSH:   ME015    •A: LSh                                      •CNR: Albanska lista                                •EN: Albanian List                                •SQ: Lista Shqiptare
-MJNN:  ME017    •A: MjNN                                     •CNR: Mir je naša nacija                            •EN: Peace is Our Nation
+LSH:   ME202001 •A: LSh                                      •CNR: Albanska lista                                •EN: Albanian List                                •SQ: Lista Shqiptare
+MJNN:  ME202002 •A: MjNN                                     •CNR: Mir je naša nacija                            •EN: Peace is Our Nation
 PCG:   ME201201 •A: PCG                                      •CNR: Pozitivna Crna Gora                           •EN: Positive Montenegro
 PD:    ME021    •A: PD                                       •CNR: Democratska Partija                           •EN: Democratic Party                             •SQ: Partia Demokratike
 PES:   ME026    •A: PES!                                     •CNR: Pokret Evropa sad                             •EN: Europe Now Movement
@@ -92,11 +92,11 @@ UDSH:  ME019    •A: UDSH                                     •CNR: Demokrats
 URA:   ME201503 •A: URA                                      •CNR: Građanski pokret Ujedinjena reformska akcija  •EN: Civic Movement United Reform Action
 ДНП:   ME022    •A: ДНП    •R: DNP                                                                               •EN: Democratic People’s Party                                                         •SR: Демократска народна партија
 ДП:    ME025    •A: ДП     •R: DP                                                                                •EN: Christian Democratic Movement                                                     •SR: Демохришћански покрет
-ДСИ:   ME014    •A: Дси    •R: Dsi                           •CNR: Да свако има                                  •EN: For the Benefit of All
-ЗБЦГ:  ME016    •A: ЗбЦГ   •R: ЗБЦГ                                                                              •EN: For the Future of Montenegro                                                      •SR: За будућност Црне Горе
+ДСИ:   ME201901 •A: Дси    •R: Dsi                           •CNR: Да свако има                                  •EN: For the Benefit of All
+ЗБЦГ:  ME202003 •A: ЗбЦГ   •R: ЗБЦГ                                                                              •EN: For the Future of Montenegro                                                      •SR: За будућност Црне Горе
 КЉУЧ:  ME201601 •A: КЉУЧ   •R: Ključ                         •CNR: Коалиција Кључ /                              •EN: Key Coalition
 НСД:   ME200901 •A: НСД    •R: NSD                                                                               •EN: New Serb Democracy                                                                •SR: Нова српска демократија
-ПРАВА: ME012    •A: Права  •R: Prava                                                                             •EN: True Montenegro                                                                   •SR: Права Црна Гора
+ПРАВА: ME201801 •A: Права  •R: Prava                                                                             •EN: True Montenegro                                                                   •SR: Права Црна Гора
 РП:    ME028    •A: РП     •R: RP                                                                                •EN: Workers’ Party or Labour Party                                                    •SR: Радничка партија
 СНПЦГ: ME199802 •A: СНП ЦГ •R: SNP CG                                                                            •EN: Socialist People’s Party of Montenegro                                            •SR: Социјалистичка народна партија Црне Горе
 УЦГ:   ME201701 •A: УЦГ    •R: UCG                                                                               •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
