@@ -22,16 +22,16 @@
 •PF: La Prensa Gráfica •FS: 2019-11-20 •FE: 2019-11-25 •SC: N •SS: 1520       NI: 34.2 ARENA: 6.0 GANA: 4.8 FMLN: 4.0 PCN: 1.1 CD: 0.3 PDC: 0.1                                                           •N: 49.5
 •PF: CID–Gallup        •FS: 2019-09-19 •FE: 2019-09-19 •SC: N •SS: 1206       NI: 35 ARENA: 8 GANA: 7 FMLN: 6                                                                                             •N: 45
 
-ARENA: SV002 •A: ARENA •EN: Nationalist Republican Alliance           •ES: Alianza Republicana Nacionalista
-CD:    SV006 •A: CD    •EN: Democratic Change                         •ES: Cambio Democrático
-DS:    SV013 •A: DS    •EN: Salvadoran Democracy                      •ES: Democracia Salvadoreña
-FMLN:  SV004 •A: FMLN  •EN: Farabundo Martí National Liberation Front •ES: Frente Farabundo Martí para la Liberación Nacional
-FPS:   SV012 •A: FPS   •EN: Salvadoran Patriotic Fraternity           •ES: Fraternidad Patriota Salvadoreña
-FS:    SV010 •A: FS    •EN: Solidarity Force                          •ES: Fuerza Solidaria
-GANA:  SV003 •A: GANA  •EN: Grand Alliance for National Unity         •ES: Gran Alianza por la Unidad Nacional
-NI:    SV001 •A: NI    •EN: New Ideas                                 •ES: Nuevas Ideas
-NT:    SV009 •A: NT    •EN: Our Time                                  •ES: Nuestro Tiempo
-PAIS:  SV011 •A: PAIS  •EN: Salvadoran Independent Party              •ES: Partido Independiente Salvadoreño
-PCN:   SV005 •A: PCN   •EN: National Coalition Party                  •ES: Partido de Concertación Nacional
-PDC:   SV007 •A: PDC   •EN: Christian Democratic Party                •ES: Partido Demócrata Cristiano
-V:     SV008 •A: V     •EN: Let’s Go                                  •ES: Vamos
+ARENA: SV198101 •A: ARENA •EN: Nationalist Republican Alliance           •ES: Alianza Republicana Nacionalista
+CD:    SV200501 •A: CD    •EN: Democratic Change                         •ES: Cambio Democrático
+DS:    SV201301 •A: DS    •EN: Salvadoran Democracy                      •ES: Democracia Salvadoreña
+FMLN:  SV198001 •A: FMLN  •EN: Farabundo Martí National Liberation Front •ES: Frente Farabundo Martí para la Liberación Nacional
+FPS:   SV198501 •A: FPS   •EN: Salvadoran Patriotic Fraternity           •ES: Fraternidad Patriota Salvadoreña
+FS:    SV202201 •A: FS    •EN: Solidarity Force                          •ES: Fuerza Solidaria
+GANA:  SV201001 •A: GANA  •EN: Grand Alliance for National Unity         •ES: Gran Alianza por la Unidad Nacional
+NI:    SV201701 •A: NI    •EN: New Ideas                                 •ES: Nuevas Ideas
+NT:    SV201901 •A: NT    •EN: Our Time                                  •ES: Nuestro Tiempo
+PAIS:  SV202101 •A: PAIS  •EN: Salvadoran Independent Party              •ES: Partido Independiente Salvadoreño
+PCN:   SV196101 •A: PCN   •EN: National Coalition Party                  •ES: Partido de Concertación Nacional
+PDC:   SV196001 •A: PDC   •EN: Christian Democratic Party                •ES: Partido Demócrata Cristiano
+V:     SV201702 •A: V     •EN: Let’s Go                                  •ES: Vamos
