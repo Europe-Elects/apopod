@@ -1,6 +1,6 @@
-•PF: Ipsos         •C: RTCG •FS: 2025-02-01 •FE: 2025-02-11 •SC: N •SS: 1010 PES: 20 DPS: 21 BS: 3 PREOKRET: 3 ES: 7 ЗБЦГ: 20 DCG: 7 URA: 7 •O: 12
-•PF: Ipsos         •C: RTCG •FS: 2025-01-09 •FE: 2025-01-19 •SC: N •SS: 1010 PES+DCG: 25 DPS: 23 BS: 4 PZS: 3 PREOKRET: 4 ES: 7 ЗБЦГ: 20 URA: 8 •O: 8
+•PF: Ipsos                                    •C: RTCG  •FS: 2025-02-01 •FE: 2025-02-11                 •SC: N •SS: 1010           PES: 20 DPS: 21 ES: 7 ЗБЦГ: 20 DCG: 7 URA: 7 BS: 3 PREOKRET: 3                                                                                                                       •O: 12
                                               •C: BORBA •FS: 2025-01-20 •FE: 2025-01-22                 •SC: N •SS: 2022           PES: 25.3 DPS: 19.9 ES: 5.1 ЗБЦГ: 19.2 DCG: 5.9 URA: 2.8 BS: 6.8 СНПЦГ: 1.5 ASH: 1.5                                                                                                 •O: 12.0
+•PF: Ipsos                                    •C: RTCG  •FS: 2025-01-09 •FE: 2025-01-19                 •SC: N •SS: 1010           DPS: 23 ES: 7 ЗБЦГ: 20 URA: 8 BS: 4 DCG+PES: 25 PREOKRET: 4 PZS: 3                                                                                                                   •O: 8
                                               •C: BORBA •FS: 2025-01-09 •FE: 2025-01-11                 •SC: N •SS: 2022           PES: 22.5 DPS: 21.9 ES: 4.5 ЗБЦГ: 21.7 DCG: 5.9 URA: 2.3 BS: 7.1 СНПЦГ: 1.9 ASH: 1.9                                                                                                 •O: 10.3
                                               •C: BORBA •FS: 2024-12-23 •FE: 2024-12-24                 •SC: N •SS: 2022           PES: 21.3 DPS: 24.3 ES: 3.3 ЗБЦГ: 20.9 DCG: 8.1 URA: 3.2 BS: 6.3 СНПЦГ: 2.1 ASH: 1.7                                                                                                 •O: 8.8
                                               •C: BORBA •FS: 2024-10-15 •FE: 2024-11-15                 •SC: N •SS: 2002           PES: 19.7 DPS: 25.4 ES: 2.8 ЗБЦГ: 19.3 DCG: 8.9 URA: 2.7 BS: 6.5 СНПЦГ: 1.7 ASH: 1.9                                                                                                 •O: 11.1
@@ -74,40 +74,40 @@
 •PF: CeDem                                              •FS: 2010-10    •FE: 2010-10                    •SC: N                     СНПЦГ: 17.8 BS+ECG: 56.9 НСД: 9.2 PZP: 4.7                                                                                                                                           •O: 11.3
 •PF: CeDem                                              •FS: 2010-07    •FE: 2010-07                    •SC: N                     СНПЦГ: 18.6 BS+ECG: 53.2 НСД: 8.1 PZP: 4.9                                                                                                                                           •O: 15.2
 
-ASH:   ME200603 •A: ASh                                      •CNR: Albanska alternativa                          •EN: Albanian Alternative                         •SQ: Alternativa Shqiptare
-BS:    ME200601 •A: BS                •BS: Bošnjačka stranka                                                     •EN: Bosniak Party
-CIVIS: ME201902 •A: Civis                                    •CNR: Savez građana „Civis”                         •EN: Citizens’ Union “Civis”
-CNB:   ME202004 •A: CnB                                      •CNR: Otvorena građanska platforma „Crno na bijelo” •EN: Civic Platform “In Black and White”
-DCG:   ME201502 •A: DCG                                      •CNR: Demokratska Crna Gora                         •EN: Democratic Montenegro
-DEMOS: ME201501 •A: DEMOS                                    •CNR: Demokratski savez                             •EN: Democratic Alliance
-DF:    ME201202 •A: DF                                       •CNR: Демократски фронт                             •EN: Democratic Front
-DPS:   ME199101 •A: DPS                                      •CNR: Demokratska partija socijalista Crne Gore     •EN: Democratic Party of Socialists of Montenegro
-ECG:   ME199801 •A: ECG                                      •CNR: Evropska Crna Gora                            •EN: European Montenegro
-ES:    ME202401 •A: ES                                       •CNR: Evropski savez
-FORCA: ME200501 •A: FORCA                                    •CNR: Nova demokratska snaga                        •EN: New Democratic Force                         •SQ: Forca e Re Demokratike
-LP:    ME200401 •A: LP                                       •CNR: Liberalna partija Crne Gore                   •EN: Liberal Party of Montenegro
-LSH:   ME202001 •A: LSh                                      •CNR: Albanska lista                                •EN: Albanian List                                •SQ: Lista Shqiptare
-MJNN:  ME202002 •A: MjNN                                     •CNR: Mir je naša nacija                            •EN: Peace is Our Nation
-PCG:   ME201201 •A: PCG                                      •CNR: Pozitivna Crna Gora                           •EN: Positive Montenegro
-PD:    ME201001 •A: PD                                       •CNR: Democratska Partija                           •EN: Democratic Party                             •SQ: Partia Demokratike
-PES:   ME202202 •A: PES!                                     •CNR: Pokret Evropa sad                             •EN: Europe Now Movement
-PZP:   ME200602 •A: PzP                                      •CNR: Pokret za promjene                            •EN: Movement for Changes
-SD:    ME201504 •A: SD                                       •CNR: Socijaldemokrate Crne Gore                    •EN: Social Democrats of Montenegro
-SDP:   ME199301 •A: SDP                                      •CNR: Socijaldemokratska partija Crne Gore          •EN: Social Democratic Party of Montenegro
-UDSH:  ME199302 •A: UDSH                                     •CNR: Demokratska unija Albanaca                    •EN: Democratic Union of Albanians                •SQ: Unioni Demokratik i Shqiptarëve
-URA:   ME201503 •A: URA                                      •CNR: Građanski pokret Ujedinjena reformska akcija  •EN: Civic Movement United Reform Action
-ДНП:   ME201203 •A: ДНП    •R: DNP                                                                               •EN: Democratic People’s Party                                                         •SR: Демократска народна партија
-ДП:    ME202201 •A: ДП     •R: DP                                                                                •EN: Christian Democratic Movement                                                     •SR: Демохришћански покрет
-ДСИ:   ME201901 •A: Дси    •R: Dsi                           •CNR: Да свако има                                  •EN: For the Benefit of All
-ЗБЦГ:  ME202003 •A: ЗбЦГ   •R: ЗБЦГ                                                                              •EN: For the Future of Montenegro                                                      •SR: За будућност Црне Горе
-КЉУЧ:  ME201601 •A: КЉУЧ   •R: Ključ                         •CNR: Коалиција Кључ /                              •EN: Key Coalition
-НСД:   ME200901 •A: НСД    •R: NSD                                                                               •EN: New Serb Democracy                                                                •SR: Нова српска демократија
-ПРАВА: ME201801 •A: Права  •R: Prava                                                                             •EN: True Montenegro                                                                   •SR: Права Црна Гора
-РП:    ME201505 •A: РП     •R: RP                                                                                •EN: Workers’ Party or Labour Party                                                    •SR: Радничка партија
-СНПЦГ: ME199802 •A: СНП ЦГ •R: SNP CG                                                                            •EN: Socialist People’s Party of Montenegro                                            •SR: Социјалистичка народна партија Црне Горе
-УЦГ:   ME201701 •A: УЦГ    •R: UCG                                                                               •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
-PREOKRET: ME202203 •A: Preokret •CNR: Preokret za sigurnu Crnu Goru •EN: Turnaround for a Safe Montenegro
-PZS: ME202301 •A: PzS •CNR: Pravda za sve •EN: Justice for all
+ASH:      ME200603 •A: ASh                                        •CNR: Albanska alternativa                          •EN: Albanian Alternative                         •SQ: Alternativa Shqiptare
+BS:       ME200601 •A: BS                  •BS: Bošnjačka stranka                                                     •EN: Bosniak Party
+CIVIS:    ME201902 •A: Civis                                      •CNR: Savez građana „Civis”                         •EN: Citizens’ Union “Civis”
+CNB:      ME202004 •A: CnB                                        •CNR: Otvorena građanska platforma „Crno na bijelo” •EN: Civic Platform “In Black and White”
+DCG:      ME201502 •A: DCG                                        •CNR: Demokratska Crna Gora                         •EN: Democratic Montenegro
+DEMOS:    ME201501 •A: DEMOS                                      •CNR: Demokratski savez                             •EN: Democratic Alliance
+DF:       ME201202 •A: DF                                         •CNR: Демократски фронт                             •EN: Democratic Front
+DPS:      ME199101 •A: DPS                                        •CNR: Demokratska partija socijalista Crne Gore     •EN: Democratic Party of Socialists of Montenegro
+ECG:      ME199801 •A: ECG                                        •CNR: Evropska Crna Gora                            •EN: European Montenegro
+ES:       ME202401 •A: ES                                         •CNR: Evropski savez
+FORCA:    ME200501 •A: FORCA                                      •CNR: Nova demokratska snaga                        •EN: New Democratic Force                         •SQ: Forca e Re Demokratike
+LP:       ME200401 •A: LP                                         •CNR: Liberalna partija Crne Gore                   •EN: Liberal Party of Montenegro
+LSH:      ME202001 •A: LSh                                        •CNR: Albanska lista                                •EN: Albanian List                                •SQ: Lista Shqiptare
+MJNN:     ME202002 •A: MjNN                                       •CNR: Mir je naša nacija                            •EN: Peace is Our Nation
+PCG:      ME201201 •A: PCG                                        •CNR: Pozitivna Crna Gora                           •EN: Positive Montenegro
+PD:       ME201001 •A: PD                                         •CNR: Democratska Partija                           •EN: Democratic Party                             •SQ: Partia Demokratike
+PES:      ME202202 •A: PES!                                       •CNR: Pokret Evropa sad                             •EN: Europe Now Movement
+PREOKRET: ME202203 •A: Preokret                                   •CNR: Preokret za sigurnu Crnu Goru                 •EN: Turnaround for a Safe Montenegro
+PZP:      ME200602 •A: PzP                                        •CNR: Pokret za promjene                            •EN: Movement for Changes
+PZS:      ME202301 •A: PzS                                        •CNR: Pravda za sve                                 •EN: Justice for all
+SD:       ME201504 •A: SD                                         •CNR: Socijaldemokrate Crne Gore                    •EN: Social Democrats of Montenegro
+SDP:      ME199301 •A: SDP                                        •CNR: Socijaldemokratska partija Crne Gore          •EN: Social Democratic Party of Montenegro
+UDSH:     ME199302 •A: UDSH                                       •CNR: Demokratska unija Albanaca                    •EN: Democratic Union of Albanians                •SQ: Unioni Demokratik i Shqiptarëve
+URA:      ME201503 •A: URA                                        •CNR: Građanski pokret Ujedinjena reformska akcija  •EN: Civic Movement United Reform Action
+ДНП:      ME201203 •A: ДНП      •R: DNP                                                                               •EN: Democratic People’s Party                                                         •SR: Демократска народна партија
+ДП:       ME202201 •A: ДП       •R: DP                                                                                •EN: Christian Democratic Movement                                                     •SR: Демохришћански покрет
+ДСИ:      ME201901 •A: Дси      •R: Dsi                           •CNR: Да свако има                                  •EN: For the Benefit of All
+ЗБЦГ:     ME202003 •A: ЗбЦГ     •R: ЗБЦГ                                                                              •EN: For the Future of Montenegro                                                      •SR: За будућност Црне Горе
+КЉУЧ:     ME201601 •A: КЉУЧ     •R: Ključ                         •CNR: Коалиција Кључ /                              •EN: Key Coalition
+НСД:      ME200901 •A: НСД      •R: NSD                                                                               •EN: New Serb Democracy                                                                •SR: Нова српска демократија
+ПРАВА:    ME201801 •A: Права    •R: Prava                                                                             •EN: True Montenegro                                                                   •SR: Права Црна Гора
+РП:       ME201505 •A: РП       •R: RP                                                                                •EN: Workers’ Party or Labour Party                                                    •SR: Радничка партија
+СНПЦГ:    ME199802 •A: СНП ЦГ   •R: SNP CG                                                                            •EN: Socialist People’s Party of Montenegro                                            •SR: Социјалистичка народна партија Црне Горе
+УЦГ:      ME201701 •A: УЦГ      •R: UCG                                                                               •EN: United Montenegro                                                                 •SR: Уједињена Црна Гора
 
 ‡ Named alliances:
 ‡ CNB = URA + CIVIS/…
