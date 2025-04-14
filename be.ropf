@@ -151,6 +151,9 @@
 •PF: Dedicated                                  •C: La Libre Belgique •C: RTBf                                   •FS: 2014-09-05 •FE: 2014-09-09                 •SC: N •A: VLG •SS: 792  NVA: 31.9 CDV: 17.7 OPENVLD: 15.4 VOORUIT: 15.0 GROEN: 9.6 VB: 5.5 PTBPVDA: 3.1                                                       •O: 1.8
 •PF: AQ Rate                                    •C: Het Laatste Nieuws                                           •FS: 2014-07    •FE: 2014-07                    •SC: N •A: VLG •SS: 880  NVA: 32.9 CDV: 17.7 OPENVLD: 15.4 VOORUIT: 14.6 GROEN: 9.0 VB: 5.8 PTBPVDA: 3.1
 •PF: AQ Rate                                    •C: Het Laatste Nieuws                                           •FS: 2014-06    •FE: 2014-06                    •SC: N •A: VLG           NVA: 38.4 CDV: 15.5 OPENVLD: 13.8 VOORUIT: 13.1 GROEN: 7.8 VB: 5.2 PTBPVDA: 3.3
+
+                                                •C: De Standaard •C: VRT                                                                         •PD: 2007-03-16 •SC: N •A: VLG           CDV+NVA: 30.4 VB+VLOTT: 20.8 SLP+VOORUIT: 20.7 OPENVLD: 16.9 GROEN: 7.6 LDD: 3.2
+&                                                                                                                                                                •SC: N •A: VLG           CDV: 25.0 VB+VLOTT: 20.8 SLP+VOORUIT: 20.7 OPENVLD: 16.9 GROEN: 7.6 NVA: 5.5 LDD: 3.2
                                                 •C: Het Laatste Nieuws                                           •FS: 2007-01    •FE: 2007-01                    •SC: N •A: VLG •SS: 812  CDV+NVA: 30 VB+VLOTT: 20 SLP+VOORUIT: 17 VIVANT+VLD: 15 GROEN: 5
 •PF: De Stemmenkampioen                                                                                                                          •PD: 2007-01-08 •SC: N •A: VLG           CDV+NVA: 31.3 VB+VLOTT: 21.0 SLP+VOORUIT: 18.3 VIVANT+VLD: 16.4 GROEN: 6.6
                                                 •C: De Morgen •C: La Libre Belgique •C: RTL TVi •C: VTM                                          •PD: 2006-12-18 •SC: N •A: VLG           CDV+NVA: 29.4 VB+VLOTT: 24.6 SLP+VOORUIT: 20.0 VIVANT+VLD: 17.4 GROEN: 6.1
@@ -217,10 +220,11 @@ DN:       BE198501 •A: DN        •EN: National Democracy                    
 DÉFI:     BE013    •A: DéFI      •EN: Democratic Federalist Independent                    •FR: Démocrate Fédéraliste Indépendant
 ECOLO:    BE198001 •A: Ecolo     •EN: Ecolo                                                •FR: Écologistes Confédérés Pour l’Organisation de Luttes Originales
 GROEN:    BE197902 •A: Groen     •EN: Green                                                                                                                     •NL: Groen
+LDD:      BE200702 •A: LDD       •EN: Libertarian, Direct, Democratic                                                                                           •NL: Libertair, Direct, Democratisch
 LE:       BE011    •A: LE        •EN: The Committed Ones                                   •FR: Les Engagés
 MR:       BE200201 •A: MR        •EN: Reformist Movement                                   •FR: Mouvement Réformateur
 NVA:      BE200102 •A: N-VA      •EN: New Flemish Alliance                                                                                                      •NL: Nieuw-Vlaamse Alliantie
-OPENVLD:  BE003    •A: Open Vld  •EN: Open Flemish Liberals and Democrats                                                                                       •NL: Open Vlaamse Liberalen en Democraten
+OPENVLD:  BE200701 •A: Open Vld  •EN: Open Flemish Liberals and Democrats                                                                                       •NL: Open Vlaamse Liberalen en Democraten
 PP:       BE012    •A: PP                                                                  •FR: Parti Populaire
 PS:       BE197802 •A: PS        •EN: Socialist Party                                      •FR: Parti Socialiste
 PTBPVDA:  BE007    •A: PTB/PVDA  •EN: Workers’ Party of Belgium                            •FR: Parti du Travail de Belgique                                    •NL: Partij van de Arbeid van België
