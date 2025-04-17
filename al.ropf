@@ -1,4 +1,5 @@
-•PF: Piepoli               •C: Report TV                                         •PD: 2025-03-13 •SC: N •SS: 1000           PS: 48.5 ASHM: 37.0 NSB: 7.5 PM: 3.0 PSD: 2.0 LB: 1.5
+•PF: Piepoli               •C: Report TV         •FS: 2025-03-20 •FE: 2025-03-25                 •SC: N •SS: 1000           PS: 40.6 ASHM: 30 KNSHB: 6.7 PM: 4.4 LB: 1.8 KEA: 1.1 PSD: 1                  •O: 0.9 •N: 13.5
+•PF: Piepoli               •C: Report TV                                         •PD: 2025-03-13 •SC: N •SS: 1000           PS: 48.5 ASHM: 37.0 KNSHB: 7.5 PM: 3.0 PSD: 2.0 LB: 1.5
 •PF: MRB                   •C: Datacentrum       •FS: 2025-02-15 •FE: 2025-02-25                 •SC: N •SS: 1600           PS: 39.1 PD: 27.8 SB: 5.1 PM: 3.9 LB: 2 PL: 1.4                               •O: 1.7 •N: 19.0
 •PF: MRB                   •C: Datacentrum       •FS: 2025-01-15 •FE: 2025-01-30                 •SC: N •SS: 1600           PS: 40.5 PD: 24.9 SB: 6.4 PM: 3.1 LB: 2.2 PL: 1.4                             •O: 2.4 •N: 19.1
 •PF: Eduard Zaloshnja      •C: Report TV         •FS: 2024-10-17 •FE: 2024-10-17                 •SC: N •SS: 1860           PS: 50.3 PD: 30.2 SB: 6.8 PM: 3.1 NTH: 1.7 PL: 1.5 LB: 1.0 PDIU: 1.0 PSD: 1.0 •O: 3.7
@@ -29,8 +30,9 @@
 •PF: Piepoli               •C: Report TV         •FS: 2020-11-24 •FE: 2020-11-27                 •SC: N •SS: 500            PS: 56.0 PD: 32.0 PL: 3.0
 
 ASHM:      AL013 •A: ASHM         •EN: Alliance for a Great Albania             •SQ: Aleanca për Shqipërinë Madhështore
+KEA:       AL015 •A: KEA          •EN: Euroatlantic Coalition                   •SQ: Koalicioni Euroatlantik
+KNSHB:     AL014 •A: KNSHB        •EN: Initiative Albania Becomes               •SQ: Nisma Shqipëria Bëhet
 LB:        AL012 •A: LB           •EN: Together Movement                        •SQ: Lëvizja Bashkë
-NSB:       AL014 •A: NSB          •EN: Initiative Albania Becomes               •SQ: Nisma Shqipëria Bëhet
 NTH:       AL010 •A: NTH          •EN: Hashtag Initiative                       •SQ: Nisma Thurje
 PD:        AL002 •A: PD           •EN: Democratic Party of Albania              •SQ: Partia Demokratike e Shqipërisë
 PDAN:      AL005 •A: PD–AN        •EN: Democratic Party Alliance for Change     •SQ: Partia Demokratike - Aleanca për Ndryshim
