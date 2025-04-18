@@ -1,19 +1,19 @@
-•PF: ATES Research Group •FS: 2025-04-05 •FE: 2025-04-13 •SC: N •SS: 1130 •N: 33.8 PAS: 27.6 PSRM: 16.3 PN: 5.2 PSDE: 1.5 VICTORIE: 6.1 ÎMPREUNĂ: 1.6 PLDM: 0.1 VIITORUL: 0.8 PDA: 1.5 PRIM: 1.7 BA: 6.8
-•PF: IMAS •FS: 2025-03-26 •FE: 2025-04-08 •SC: N •SS: 1113 •N: 26.2 PAS: 24.45 BCS: 15.65 PN: 6.5 PSDE: 0.75 VICTORIE: 8.55 ÎMPREUNĂ: 1.4 CUB: 0.15 PLDM: 0.2 VIITORUL: 2.6 PDA: 0.8 PRIM: 2.9 BA: 8.85
-•PF: iData •FS: 2025-03-14 •FE: 2025-03-25 •SC: N •SS: 1007 •N: 27.4 PAS: 25.4 BCS: 13.9 PN: 3.6 PSDE: 3.3 VICTORIE: 10.9 ÎMPREUNĂ: 0.95 CUB: 0.65 PLDM: 0.2 PDA: 0.35 PRIM: 1.95 BA: 5.65
-•PF: iData •FS: 2025-02-13 •FE: 2025-02-24 •SC: N •SS: 1005 •N: 26.4 PAS: 27.45 BCS: 17.75 PN: 5.15 PSDE: 1.55 VICTORIE: 11.9 ÎMPREUNĂ: 1.3 CUB: 1 PDA: 0.3 PRIM: 2.5 BA: 3.9
+•PF: ATES Research Group                                         •FS: 2025-04-05 •FE: 2025-04-13 •SC: N •SS: 1130 PAS: 27.6 BCS: 16.3 BA: 6.8 VICTORIE: 6.1 PN: 5.2 PRIM: 1.7 ÎMPREUNĂ: 1.6 PDA: 1.5 PSDE: 1.5 PVM: 0.8 PLDM: 0.1                        •N: 33.8
+•PF: IMAS                                                        •FS: 2025-03-26 •FE: 2025-04-08 •SC: N •SS: 1113 PAS: 24.45 BCS: 15.65 BA: 8.85 VICTORIE: 8.55 PN: 6.5 PRIM: 2.9 PVM: 2.6 ÎMPREUNĂ: 1.4 PDA: 0.8 PSDE: 0.75 PLDM: 0.2 CUB: 0.15         •N: 26.2
+•PF: iData                                                       •FS: 2025-03-14 •FE: 2025-03-25 •SC: N •SS: 1007 PAS: 25.4 BCS: 13.9 VICTORIE: 10.9 BA: 5.65 PN: 3.6 PSDE: 3.3 PRIM: 1.95 ÎMPREUNĂ: 0.95 CUB: 0.65 PDA: 0.35 PLDM: 0.2                  •N: 27.4
+•PF: iData                                                       •FS: 2025-02-13 •FE: 2025-02-24 •SC: N •SS: 1005 PAS: 27.45 BCS: 17.75 VICTORIE: 11.9 PN: 5.15 BA: 3.9 PRIM: 2.5 PSDE: 1.55 ÎMPREUNĂ: 1.3 CUB: 1 PDA: 0.3                               •N: 26.4
 •PF: Intellect Group                                             •FS: 2025-02-13 •FE: 2025-02-21 •SC: N •SS: 1179 PAS: 28.9 BCS: 15.0 BA: 7.7 PN: 6.1 VICTORIE: 4.4 PRIM: 2.8 ÎMPREUNĂ: 1.2                                                              •N: 33.7
 •PF: IMAS                                                        •FS: 2025-01-16 •FE: 2025-02-01 •SC: N •SS: 1130 PAS: 25.9 BCS: 21.75 VICTORIE: 9.1 PN: 7.7 PRIM: 4.1 MAN: 2.15 PDCM: 1.85 PPDA+PS: 1.15 PDA: 0.9 CUB: 0.55 PSDE: 0.5 PLDM: 0.3         •N: 22.9
 •PF: iData                        •C: IPP                        •FS: 2024-12-02 •FE: 2024-12-08 •SC: N •SS: 1006 PAS: 44.0 BCS: 22.8 VICTORIE: 13.9 PN: 6.9 MAN: 5.3 PDCM: 1.9 PPDA+PS: 1.6 CUB: 1.2 PSDE: 0.8 PDA: 0.1
-•PF: CBS Research                 •C: WatchDog                   •FS: 2024-10-11 •FE: 2024-10-16 •SC: N •SS: 1034 PAS: 58.3 BCS: 18.8 PN: 7.7 VICTORIE: 7.7 VIITORUL: 2.7 PDCM: 1.1 PSDE: 0.9 ÎMPREUNĂ: 0.9 MAN: 0.5
+•PF: CBS Research                 •C: WatchDog                   •FS: 2024-10-11 •FE: 2024-10-16 •SC: N •SS: 1034 PAS: 58.3 BCS: 18.8 PN: 7.7 VICTORIE: 7.7 PVM: 2.7 PDCM: 1.1 PSDE: 0.9 ÎMPREUNĂ: 0.9 MAN: 0.5
 •PF: Intellect Group                                             •FS: 2024-10-13 •FE: 2024-10-15 •SC: N •SS: 985  PAS: 40.2 BCS: 21.0 PN: 14.8 ȘOR: 12.7 MAN: 4.7                                                                                •O: 6.5
-•PF: iData                        •C: IPP                        •FS: 2024-09-19 •FE: 2024-10-10 •SC: N •SS: 1100 PAS: 36.0 BCS: 19.1 VICTORIE: 17.6 PN: 13.6 PDCM: 3.2 PSDE: 2.4 PPDA+PS: 2.3 CUB: 1.9 MAN: 1.6 PLDM: 1.2 VIITORUL: 0.9
-•PF: CBS Research                 •C: WatchDog                   •FS: 2024-09-17 •FE: 2024-09-22 •SC: N •SS: 1021 PAS: 51.9 BCS: 18.8 VICTORIE: 12.0 PN: 6.1 PSDE: 2.8 ÎMPREUNĂ: 2.1 VIITORUL: 1.7 PDCM: 1.6 MAN: 1.4
+•PF: iData                        •C: IPP                        •FS: 2024-09-19 •FE: 2024-10-10 •SC: N •SS: 1100 PAS: 36.0 BCS: 19.1 VICTORIE: 17.6 PN: 13.6 PDCM: 3.2 PSDE: 2.4 PPDA+PS: 2.3 CUB: 1.9 MAN: 1.6 PLDM: 1.2 PVM: 0.9
+•PF: CBS Research                 •C: WatchDog                   •FS: 2024-09-17 •FE: 2024-09-22 •SC: N •SS: 1021 PAS: 51.9 BCS: 18.8 VICTORIE: 12.0 PN: 6.1 PSDE: 2.8 ÎMPREUNĂ: 2.1 PVM: 1.7 PDCM: 1.6 MAN: 1.4
 •PF: iData                                                       •FS: 2024-09-13 •FE: 2024-09-18 •SC: N •SS: 1021 PAS: 37.6 VICTORIE: 17.5 BCS: 17.2 PN: 13.4 PDCM: 4.6 MAN: 4.1 PSDE: 1.6 CUB: 1.5 PPDA+PS: 1.3 PLDM: 0.3
 •PF: iData                                                       •FS: 2024-08-19 •FE: 2024-08-25 •SC: N •SS: 1004 PAS: 37.0 BCS: 20.2 VICTORIE: 17.1 PN: 11.2 PDCM: 3.5 PSDE: 2.5 MAN: 2.2 ÎMPREUNĂ: 1.6                                         •O: 4.3
-•PF: CBS Research                 •C: WatchDog                   •FS: 2024-08-20 •FE: 2024-08-23 •SC: N •SS: 1011 PAS: 44.8 BCS: 22.7 VICTORIE: 12.7 PN: 5.5 PSDE: 4.4 PDCM: 2.7 VIITORUL: 2.7 ÎMPREUNĂ: 2.1 MAN: 1.3
+•PF: CBS Research                 •C: WatchDog                   •FS: 2024-08-20 •FE: 2024-08-23 •SC: N •SS: 1011 PAS: 44.8 BCS: 22.7 VICTORIE: 12.7 PN: 5.5 PSDE: 4.4 PDCM: 2.7 PVM: 2.7 ÎMPREUNĂ: 2.1 MAN: 1.3
 •PF: IMAS                                                        •FS: 2024-07-08 •FE: 2024-07-21 •SC: N •SS: 1093 PAS: 41.1 BCS: 25.4 VICTORIE: 13.7 PN: 7.1 PDCM: 3.8 MAN: 1.9 PDA: 1.5 ÎMPREUNĂ: 1.5 PLDM: 1.1 PSDE: 1.1
-•PF: CBS-Axa                      •C: IPRE                       •FS: 2024-06-28 •FE: 2024-07-18 •SC: N •SS: 1119 PAS: 40.8 BCS: 22.1 VICTORIE: 12.8 PN: 8.1 MAN: 3.8 PDCM: 3.2 VIITORUL: 1.5 PSDE: 1.4 ÎMPREUNĂ: 1.4 PLDM: 1.1 AUR: 0.6
+•PF: CBS-Axa                      •C: IPRE                       •FS: 2024-06-28 •FE: 2024-07-18 •SC: N •SS: 1119 PAS: 40.8 BCS: 22.1 VICTORIE: 12.8 PN: 8.1 MAN: 3.8 PDCM: 3.2 PVM: 1.5 PSDE: 1.4 ÎMPREUNĂ: 1.4 PLDM: 1.1 AUR: 0.6
 •PF: IRI                                                         •FS: 2024-05-23 •FE: 2024-06-13 •SC: N •SS: 1225 PAS: 33 BCS: 18 ȘOR: 9 PDCM: 5 PN: 4 MAN: 3 PDA: 1 PLDM: 1 PPDA: 1 CUB: <1                                                     •O: 2   •N: 25
 •PF: iData                                                       •FS: 2024-05-22 •FE: 2024-05-27 •SC: N •SS: 1022 PAS: 38.2 BCS: 23.2 VICTORIE: 20.4 ÎMPREUNĂ: 4.9 PDCM: 4.2 PN: 3.4 PSDE: 2.8 MAN: 1.8                                          •O: 1.0
 •PF: IMAS                                                        •FS: 2024-05-02 •FE: 2024-05-19 •SC: N •SS: 1088 PAS: 42.5 BCS: 28.2 VICTORIE: 14.7 PN: 4.4 PDCM: 3.2 MAN: 1.9 PDA: 1.5 PSDE: 1.0 ÎMPREUNĂ: 1.0 PLDM: 0.6
@@ -101,8 +101,8 @@ PRIM:     MD021 •A: PRIM       •EN: Heart of Moldova Republican Party       
 PS:       MD014 •A: PS         •EN: Party of Change                                   •RO: Partidul Schimbării
 PSDE:     MD006 •A: PSDE       •EN: European Social Democratic Party                  •RO: Partidul Social Democrat European
 PUN:      MD010 •A: PUN        •EN: National Unity Party                              •RO: Partidul Unității Naționale
+PVM:      MD020 •A: PVM        •EN: Future of Moldova Party                           •RO: Partidul „Viitorul Moldovei”
 VICTORIE: MD017 •A: Victorie   •EN: Victory                                           •RO: Victorie                                         •RU: Победа
-VIITORUL: MD020 •A: Viitorul   •EN: Future of Moldova Party                           •RO: Partidul „Viitorul Moldovei”
 ÎMPREUNĂ: MD016 •A: Împreună   •EN: Together                                          •RO: Împreună
 ȘANSĂ:    MD013 •A: Șansă      •EN: Chance Party                                      •RO: Partidul Politic „Șansă”
 ȘOR:      MD018 •A: ȘOR        •EN: Chance. Duties. Realization.                      •RO: Șansă, Obligații, Realizări                      •RU: Шанс. Обязанности. Реализация.
