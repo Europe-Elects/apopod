@@ -1,8 +1,8 @@
-•PF: Verian         •C: SVT •FS: 2025-03-24 •FE: 2025-04-06 •SC: N •SS: 3231 S: 35.5 SD: 18.7 M: 20.3 V: 7.7 KD: 3.4 MP: 5.9 L: 2.8 C: 3.6
-•PF: Demoskop         •C: Aftonbladet •C: Svenska Dagbladet •FS: 2025-03-13 •FE: 2025-03-24 •SC: N •SS: 2410 S: 33.9 SD: 19.7 M: 18.8 V: 7.5 KD: 4.6 MP: 6.6 L: 2.7 C: 4.2
-•PF: Novus         •C: Svenska Dagbladet •C: Aftonbladet •FS: 2025-03-07 •FE: 2025-03-21 •SC: N •SS: 2343 S: 34.6 SD: 19.4 M: 20.3 V: 8.6 KD: 3.2 MP: 5.3 L: 2.6 C: 4.3
-•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2025-03-04 •FE: 2025-03-16 •SC: N •SS: 1706 V: 8 S: 35 MP: 5 C: 4 L: 3 M: 20 KD: 3 SD: 20
-•PF: Verian    •C: SVT                               •FS: 2025-02-24 •FE: 2025-03-09 •SC: N •SS: 3226 V: 7.6 S: 34.2 MP: 6.2 C: 4.2 L: 2.8 M: 19.2 KD: 4.4 SD: 19.1
+•PF: Verian    •C: SVT                               •FS: 2025-03-24 •FE: 2025-04-06 •SC: N •SS: 3231 V: 7.7 S: 35.5 MP: 5.9 C: 3.6 L: 2.8 M: 20.3 KD: 3.4 SD: 18.7
+•PF: Demoskop  •C: Aftonbladet •C: Svenska Dagbladet •FS: 2025-03-13 •FE: 2025-03-24 •SC: N •SS: 2410 V: 7.5 S: 33.9 MP: 6.6 C: 4.2 L: 2.7 M: 18.8 KD: 4.6 SD: 19.7   •O: 2.0
+•PF: Novus                                           •FS: 2025-03-07 •FE: 2025-03-21 •SC: N •SS: 2343 V: 8.6 S: 34.6 MP: 5.3 C: 4.3 L: 2.6 M: 20.3 KD: 3.2 SD: 19.4   •O: 1.7
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2025-03-04 •FE: 2025-03-16 •SC: N •SS: 1706 V: 8 S: 35 MP: 5 C: 4 L: 3 M: 20 KD: 3 SD: 20                   •O: 2
+•PF: Verian    •C: SVT                               •FS: 2025-02-24 •FE: 2025-03-09 •SC: N •SS: 3226 V: 7.6 S: 34.2 MP: 6.2 C: 4.2 L: 2.8 M: 19.2 KD: 4.4 SD: 19.2   •O: 2.3
 •PF: Indikator •C: Sveriges Radio                    •FS: 2025-02-03 •FE: 2025-02-25 •SC: N •SS: 3065 V: 7.8 S: 36.3 MP: 5.6 C: 4.5 L: 3.2 M: 18.9 KD: 2.7 SD: 19.6   •O: 1.4
 •PF: Demoskop  •C: Aftonbladet •C: Svenska Dagbladet •FS: 2025-02-09 •FE: 2025-02-24 •SC: N •SS: 2454 V: 8 S: 32.8 MP: 6.6 C: 5.1 L: 2.8 M: 19.7 KD: 4 SD: 19.2       •O: 1.8
 •PF: Novus     •C: Göteborgs-Posten •C: TV4          •FS: 2025-02-10 •FE: 2025-02-21 •SC: N •SS: 2097 V: 6.9 S: 35.4 MP: 5.8 C: 4.2 L: 3.0 M: 19.4 KD: 3.0 SD: 20.5   •O: 1.8
