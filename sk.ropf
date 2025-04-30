@@ -184,15 +184,15 @@
 •PF: FOCUS                           •FS: 2020-08-26 •FE: 2020-09-02 •SC: N •SS: 1022 SK: 18.4 HLASSD: 16.2 SMERSSD: 10.9 SAS: 9.9 SR: 9.1 ĽSNS: 8.5 PS: 5.9 KDH: 4.5 ZĽ: 3.9 MSZ: 3.1 SNS: 3.0 DV: 1.9 MH: 1.7 V: 1.3 D: 0.6
 •PF: Actly                           •FS: 2020-08-21 •FE: 2020-08-26 •SC: N •SS: 1000 SK: 18.1 HLASSD: 17.0 SMERSSD: 10.9 SR: 10.1 SAS: 9.4 ĽSNS: 8.9 PS: 5.1 KDH: 4.1 ZĽ: 3.7 SNS: 3.1 V: 2.7 DV: 2.5
 •PF: Polis                           •FS: 2020-07-22 •FE: 2020-07-27 •SC: N •SS: 1033 SK: 21.9 HLASSD: 16.0 SAS: 9.2 SMERSSD: 8.8 SR: 8.2 ĽSNS: 8.0 PS: 6.8 MSZ: 5.5 ZĽ: 4.6 KDH: 3.9 SNS: 3.8 DV: 1.3 MH: 1.1 V: 0.9
-•PF: AKO                             •FS: 2020-07-07 •FE: 2020-07-17 •SC: N •SS: 1000 SK: 23.5 HLASSD: 16.7 SMERSSD: 10.7 SAS: 9.4 ĽSNS: 7.9 SR: 6.4 PS: 5.2 ZĽ: 4.0 KDH: 3.0 V: 2.7 DV: 2.6 MSZ: 2.5 D: 2.2 SNS: 1.4 MH: 1.0
-•PF: FOCUS                           •FS: 2020-06-17 •FE: 2020-06-24 •SC: N •SS: 1009 SK: 21.2 SMERSSD: 19.0 SR: 12.8 ĽSNS: 9.6 SAS: 9.2 PS: 6.2 KDH: 4.6 MSZ: 3.7 ZĽ: 3.6 DV: 2.4 V: 2.2 SNS: 2.1 MH: 1.5 D: 0.8
-•PF: Polis                           •FS: 2020-06-05 •FE: 2020-06-10 •SC: N •SS: 1047 SK: 24.4 SMERSSD: 18.8 ĽSNS: 9.0 SAS: 8.9 SR: 8.9 PS: 6.8 ZĽ: 4.8 MSZ: 4.5 DV: 3.6 KDH: 3.4 SNS: 3.2 MH: 2.7
-•PF: Polis                           •FS: 2020-05-23 •FE: 2020-05-27 •SC: N •SS: 1074 SK: 24.7 SMERSSD: 21.1 SAS: 10.7 SR: 8.5 ĽSNS: 7.4 PS: 6.8 KDH: 4.9 MSZ: 4.2 ZĽ: 3.7 DV: 2.5 MH: 2.5 SNS: 1.4 V: 1.3
-•PF: FOCUS                           •FS: 2020-05-14 •FE: 2020-05-21 •SC: N •SS: 1011 SK: 22.9 SMERSSD: 21.6 SR: 11.2 ĽSNS: 9.7 SAS: 8.0 PS: 6.5 KDH: 4.8 ZĽ: 4.3 MSZ: 4.2 DV: 2.0 MH: 1.5 SNS: 1.4 V: 1.3 D: 0.2
-•PF: FOCUS                           •FS: 2020-04-15 •FE: 2020-04-19 •SC: N •SS: 1016 SK: 24.4 SMERSSD: 21.8 SR: 11.5 ĽSNS: 9.2 D+PS: 7.6 SAS: 6.8 KDH: 4.5 ZĽ: 3.2 MSZ: 2.8 V: 2.3 MH: 1.8 SNS: 1.6 DV: 1.1
-•PF: AKO                             •FS: 2020-04-14 •FE: 2020-04-17 •SC: N •SS: 1000 SK: 29.9 SMERSSD: 18.3 SR: 10.0 SAS: 9.7 PS: 6.5 ĽSNS: 6.4 MSZ: 4.4 KDH: 3.7 ZĽ: 3.0 DV: 2.2 SNS: 2.2 V: 1.9 D: 0.9 MH: 0.6
-•PF: Polis                           •FS: 2020-04-04 •FE: 2020-04-08 •SC: N •SS: 1093 SK: 26.2 SMERSSD: 21.2 SAS: 8.2 SR: 8.0 ĽSNS: 7.5 D+PS: 7.4 ZĽ: 4.8 KDH: 4.1
-•PF: FOCUS                           •FS: 2020-03-18 •FE: 2020-03-21 •SC: N •SS: 1023 SK: 23.3 SMERSSD: 21.6 SR: 11.5 ĽSNS: 7.3 D+PS: 5.9 SAS: 5.8 ZĽ: 5.2 KDH: 4.1 MSZ: 3.5 SNS: 3.4 V: 3.1 DV: 2.4 MH: 1.3
+•PF: AKO                             •FS: 2020-07-07 •FE: 2020-07-17 •SC: N •SS: 1000 KÚ+NOVA+SK+ZZDÚ: 23.5 HLASSD: 16.7 SMERSSD: 10.7 SAS: 9.4 ĽSNS: 7.9 SR: 6.4 PS: 5.2 ZĽ: 4.0 KDH: 3.0 V: 2.7 DV: 2.6 SMKMKP: 2.5 D: 2.2 SNS: 1.4 MH: 1.0
+•PF: FOCUS                           •FS: 2020-06-17 •FE: 2020-06-24 •SC: N •SS: 1009 KÚ+NOVA+SK+ZZDÚ: 21.2 SMERSSD: 19.0 SR: 12.8 ĽSNS: 9.6 SAS: 9.2 PS: 6.2 KDH: 4.6 SMKMKP: 3.7 ZĽ: 3.6 DV: 2.4 V: 2.2 SNS: 2.1 MH: 1.5 D: 0.8 ÖS: 0.5 MF: 0.3
+•PF: Polis                           •FS: 2020-06-05 •FE: 2020-06-10 •SC: N •SS: 1047 KÚ+NOVA+SK+ZZDÚ: 24.4 SMERSSD: 18.8 ĽSNS: 9.0 SAS: 8.9 SR: 8.9 PS: 6.8 ZĽ: 4.8 SMKMKP: 4.5 DV: 3.6 KDH: 3.4 SNS: 3.2 MH: 2.7
+•PF: Polis                           •FS: 2020-05-23 •FE: 2020-05-27 •SC: N •SS: 1074 KÚ+NOVA+SK+ZZDÚ: 24.7 SMERSSD: 21.1 SAS: 10.7 SR: 8.5 ĽSNS: 7.4 PS: 6.8 KDH: 4.9 SMKMKP: 4.2 ZĽ: 3.7 DV: 2.5 MH: 2.5 SNS: 1.4 V: 1.3
+•PF: FOCUS                           •FS: 2020-05-14 •FE: 2020-05-21 •SC: N •SS: 1011 KÚ+NOVA+SK+ZZDÚ: 22.9 SMERSSD: 21.6 SR: 11.2 ĽSNS: 9.7 SAS: 8.0 PS: 6.5 KDH: 4.8 ZĽ: 4.3 SMKMKP: 4.2 DV: 2.0 MH: 1.5 SNS: 1.4 V: 1.3 D: 0.2
+•PF: FOCUS                           •FS: 2020-04-15 •FE: 2020-04-19 •SC: N •SS: 1016 KÚ+NOVA+SK+ZZDÚ: 24.4 SMERSSD: 21.8 SR: 11.5 ĽSNS: 9.2 D+PS: 7.6 SAS: 6.8 KDH: 4.5 ZĽ: 3.2 SMKMKP: 2.8 V: 2.3 MH: 1.8 SNS: 1.6 DV: 1.1
+•PF: AKO                             •FS: 2020-04-14 •FE: 2020-04-17 •SC: N •SS: 1000 KÚ+NOVA+SK+ZZDÚ: 29.9 SMERSSD: 18.3 SR: 10.0 SAS: 9.7 PS: 6.5 ĽSNS: 6.4 MKÖMKS: 4.4 KDH: 3.7 ZĽ: 3.0 DV: 2.2 SNS: 2.2 V: 1.9 D: 0.9 MH: 0.6
+•PF: Polis                           •FS: 2020-04-04 •FE: 2020-04-08 •SC: N •SS: 1093 KÚ+NOVA+SK+ZZDÚ: 26.2 SMERSSD: 21.2 SAS: 8.2 SR: 8.0 ĽSNS: 7.5 D+PS: 7.4 ZĽ: 4.8 KDH: 4.1
+•PF: FOCUS                           •FS: 2020-03-18 •FE: 2020-03-21 •SC: N •SS: 1023 KÚ+NOVA+SK+ZZDÚ: 23.3 SMERSSD: 21.6 SR: 11.5 ĽSNS: 7.3 D+PS: 5.9 SAS: 5.8 ZĽ: 5.2 KDH: 4.1 MKÖMKS: 3.5 SNS: 3.4 V: 3.1 DV: 2.4 MH: 1.3
 •PF: AKO                             •FS: 2020-02-11 •FE: 2020-02-13 •SC: N •SS: 1000 SMERSSD: 16.9 KÚ+NOVA+SK+ZZDÚ: 15.5 ĽSNS: 10.3 D+PS: 9.4 ZĽ: 8.8 SR: 7.2 SAS: 6.1 KDH: 5.3 SNS: 5.0 MH+ŠANCA: 4.7 DV: 4.3 MKÖMKS: 3.0 V: 1.5
 •PF: FOCUS                           •FS: 2020-02-06 •FE: 2020-02-12 •SC: N •SS: 1005 SMERSSD: 17.0 KÚ+NOVA+SK+ZZDÚ: 13.3 ĽSNS: 12.2 D+PS: 9.3 ZĽ: 8.2 SR: 7.8 KDH: 5.4 SAS: 5.3 SNS: 4.4 MH+ŠANCA: 4.2 DV: 4.0 MKÖMKS: 3.9 V: 3.2
 •PF: AKO                             •FS: 2020-02-03 •FE: 2020-02-06 •SC: N •SS: 1000 SMERSSD: 17.3 KÚ+NOVA+SK+ZZDÚ: 13.5 ĽSNS: 11.8 ZĽ: 9.5 D+PS: 8.7 SR: 6.4 SAS: 5.8 KDH: 5.3 SNS: 5.1 MH+ŠANCA: 4.5 DV: 4.1 MKÖMKS: 3.2 V: 2.2
@@ -354,11 +354,11 @@
 APS:     SK201103 •A: ApS      •EN: Alternative for Slovakia                                                                  •SK: Alternatíva pre Slovensko
 D:       SK201801 •A: D        •EN: Democrats                                                                                 •SK: Demokrati
 DV:      SK201902 •A: DV       •EN: Good Choice                                                                               •SK: Dobrá voľba
-HLASSD:  SK015    •A: HLAS–SD  •EN: Voice – Social Democracy                                                                  •SK: Hlas – sociálna demokracia
+HLASSD:  SK202001 •A: HLAS–SD  •EN: Voice – Social Democracy                                                                  •SK: Hlas – sociálna demokracia
 KDH:     SK199001 •A: KDH      •EN: Christian Democratic Movement                                                             •SK: Kresťanskodemokratické hnutie
 KSS:     SK199201 •A: KSS      •EN: Communist Party of Slovakia                                                               •SK: Komunistická strana Slovenska
 KÚ:      SK201904 •A: KÚ       •EN: Christian Union                                                                           •SK: Kresťanská únia
-MF:      SK017    •A: MF       •EN: Hungarian Forum                                          •HU: Magyar Fórum                •SK: Maďarské fórum
+MF:      SK201907 •A: MF       •EN: Hungarian Forum                                          •HU: Magyar Fórum                •SK: Maďarské fórum
 MH:      SK200901 •A: M-H      •EN: Bridge                                                   •HU: Most–Híd                    •SK: Most–Híd
 MH2023:  SK008    •A: M-H 2023 •EN: Bridge 2023                                              •HU: Most–Híd 2023               •SK: Most–Híd 2023
 MKÖMKS:  SK201905 •A: MKÖ-MKS  •EN: Hungarian Community Togetherness                         •HU: Magyar Közösségi Összefogás •SK: Maďarská komunitná spolupatričnosť
@@ -383,6 +383,7 @@ V:       SK201903 •A: V        •EN: Homeland                                
 ZR:      SK020    •A: ZR       •EN: Common Sense                                                                              •SK: ZDRAVÝ ROZUM
 ZZDÚ:    SK200002 •A: ZZ, DÚ   •EN: Change from Below, Democratic Union of Slovakia                                           •SK: Zmena zdola, Demokratická únia Slovenska
 ZĽ:      SK201901 •A: ZĽ       •EN: For the People                                                                            •SK: ZA ĽUDÍ
+ÖS:      SK201906 •A: Ö–S      •EN: Unity                                                    •HU: Összefogás                  •SK: Spolupatričnosť
 ĽSHZDS:  SK199101 •A: ĽS–HZDS  •EN: People’s Party – Movement for a Democratic Slovakia                                       •SK: Ľudová strana – Hnutie za demokratické Slovensko
 ĽSNS:    SK201001 •A: ĽSNS     •EN: Kotlebists – People’s Party Our Slovakia                                                  •SK: Kotlebovci – Ľudová strana naše Slovensko
 ŠANCA:   SK201502 •A: ŠANCA    •EN: CHANCE                                                                                    •SK: ŠANCA
