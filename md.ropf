@@ -1,4 +1,4 @@
-•PF: iData •FS: 2025-04-16 •FE: 2025-04-28 •SC: N •SS: 1026 •N: 30.4 PAS: 26.9 BCS: 13.8 PN: 4.3 PSDE: 2.3 VICTORIE: 11  ÎMPREUNĂ: 0.9 CUB: 0.2 PVM: 0.7 MRM: 1.2 PNM: 0.1 PDA: 0.2 PRIM: 1.1 BA: 6.9
+•PF: iData                                                       •FS: 2025-04-16 •FE: 2025-04-28 •SC: N •SS: 1026 PAS: 26.9 BCS: 13.8 VICTORIE: 11 BA: 6.9 PN: 4.3 PSDE: 2.3 MRM: 1.2 PRIM: 1.1 ÎMPREUNĂ: 0.9 PVM: 0.7 CUB: 0.2 PDA: 0.2                 •N: 30.4
 •PF: ATES Research Group                                         •FS: 2025-04-05 •FE: 2025-04-13 •SC: N •SS: 1130 PAS: 27.6 BCS: 12.8 BA: 6.8 VICTORIE: 6.1 PN: 5.2 PRIM: 1.7 ÎMPREUNĂ: 1.6 PDA: 1.5 PSDE: 1.5 PVM: 0.8 PLDM: 0.1                        •N: 33.8
 •PF: IMAS                                                        •FS: 2025-03-26 •FE: 2025-04-08 •SC: N •SS: 1113 PAS: 24.45 BCS: 15.65 BA: 8.85 VICTORIE: 8.55 PN: 6.5 PRIM: 2.9 PVM: 2.6 ÎMPREUNĂ: 1.4 PDA: 0.8 PSDE: 0.75 PLDM: 0.2 CUB: 0.15         •N: 26.2
 •PF: iData                                                       •FS: 2025-03-14 •FE: 2025-03-25 •SC: N •SS: 1007 PAS: 25.4 BCS: 13.9 VICTORIE: 10.9 BA: 5.65 PN: 3.6 PSDE: 3.3 PRIM: 1.95 ÎMPREUNĂ: 0.95 CUB: 0.65 PDA: 0.35 PLDM: 0.2                  •N: 27.4
@@ -91,6 +91,7 @@ BA:       MD022 •A: BA         •EN: Alternative Bloc                        
 BCS:      MD002 •A: BCS        •EN: Bloc of Communists and Socialists                 •RO: Blocul Comuniștilor și Socialiștilor             •RU: Блок коммунистов и социалистов
 CUB:      MD015 •A: CUB        •EN: Coalition for Unity and Prosperity                •RO: Coaliția pentru Unitate și Bunăstare
 MAN:      MD011 •A: MAN        •EN: National Alternative Movement                     •RO: Mișcarea Alternativa Națională
+MRM:      MD023 •A: MRM        •EN: Respect Moldova Movement                          •RO: Mișcarea Respect Moldova
 PAS:      MD001 •A: PAS        •EN: Party of Action and Solidarity                    •RO: Partidul Acțiune și Solidaritate
 PDA:      MD007 •A: PDA        •EN: Democracy at Home Party                           •RO: Partidul Democrația Acasă
 PDCM:     MD009 •A: PDCM       •EN: Party of Development and Consolidation of Moldova •RO: Partidul Dezvoltării și Consolidării Moldovei
