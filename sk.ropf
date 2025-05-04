@@ -63,11 +63,11 @@
 •PF: Focus          •C: TV Markíza       •FS: 2023-11-15 •FE: 2023-11-22 •SC: N •SS: 1015 SMERSSD: 23.8 PS: 17.9 HLASSD: 14.6 KDH: 7.5 KÚ+SK+ZĽ: 6.4 SAS: 6.4 SNS: 5.8 REP: 5.3 MSZ: 5.0 D: 2.9 SR: 2.8 ĽSNS: 1.2                                                                   •O: 0.4
 •PF: AKO                                 •FS: 2023-11-07 •FE: 2023-11-14 •SC: N •SS: 1000 SMERSSD: 24.0 PS: 20.1 HLASSD: 15.4 KDH: 6.9 KÚ+SK+ZĽ: 6.6 SAS: 5.9 SNS: 5.4 REP: 4.9 MSZ: 4.4 SR: 2.7 D: 2.3 ĽSNS: 0.3 MMH: 0.1
 •PF: Ipsos                               •FS: 2023-11-02 •FE: 2023-11-07 •SC: N •SS: 1021 SMERSSD: 24.0 PS: 19.1 HLASSD: 15.1 SAS: 6.3 KÚ+SK+ZĽ: 6.2 KDH: 5.8 REP: 5.8 SNS: 5.1 MSZ: 4.4 D: 3.1 SR: 2.3 ĽSNS: 1.1 MF: 0.5 MMH: 0.1                                                  •O: 0.4
-•PF: Median                              •FS: 2023-09-25 •FE: 2023-09-26 •SC: N •SS: 1004 SMERSSD: 19.8 PS: 19.3 DV+HLASSD: 11.9 REP: 8.0 KDH: 7.7 SAS: 7.4 KÚ+SK+ZĽ: 6.2 SNS: 4.8 SR: 4.1 D: 3.8 SA: 2.5 MMH: 2.1                                                                  •O: 2.4
-•PF: Focus                               •FS: 2023-09-22 •FE: 2023-09-26 •SC: N •SS: 1017 SMERSSD: 18.0 PS: 16.6 DV+HLASSD: 13.7 KÚ+SK+ZĽ: 8.2 REP: 7.7 KDH: 6.5 SNS: 6.4 SAS: 5.8 SR: 4.1 D: 4.0 SA: 3.5 ĽSNS: 1.7 MMH: 0.7 MF: 0.6                                                •O: 2.5
-•PF: AKO                                 •FS: 2023-09-20 •FE: 2023-09-26 •SC: N •SS: 1000 PS: 18.0 SMERSSD: 17.7 DV+HLASSD: 15.0 KÚ+SK+ZĽ: 9.4 SAS: 7.3 KDH: 6.1 SNS: 6.0 REP: 5.4 SR: 5.1 D: 4.3 SA: 2.8 MMH: 1.0 MF: 0.6 ĽSNS: 0.3                                                •O: 1.0
+•PF: Median         •C: RTVS             •FS: 2023-09-25 •FE: 2023-09-26 •SC: N •SS: 1004 SMERSSD: 19.8 PS: 19.3 DV+HLASSD: 11.9 REP: 8.0 KDH: 7.7 SAS: 7.4 KÚ+SK+ZĽ: 6.2 SNS: 4.8 SR: 4.1 D: 3.8 SA: 2.5 MMH: 2.1                                                                  •O: 2.4
+•PF: Focus                               •FS: 2023-09-22 •FE: 2023-09-26 •SC: N •SS: 1017 SMERSSD: 18.0 PS: 16.6 DV+HLASSD: 13.7 KÚ+SK+ZĽ: 8.2 REP: 7.7 KDH: 6.5 SNS: 6.4 SAS: 5.8 SR: 4.1 D: 4.0 SA: 3.5 ĽSNS: 1.7 MMH: 0.7 KSS: 0.6 MF: 0.6 SDKÚDS: 0.4 MYSK: 0.2 APS: 0.1        •O: 1.2
+•PF: AKO                                 •FS: 2023-09-20 •FE: 2023-09-26 •SC: N •SS: 1000 PS: 18.0 SMERSSD: 17.7 DV+HLASSD: 15.0 KÚ+SK+ZĽ: 9.4 SAS: 7.3 KDH: 6.1 SNS: 6.0 REP: 5.4 SR: 5.1 D: 4.3 SA: 2.8 MMH: 1.0 MF: 0.6 KSS: 0.3 MYSK: 0.3 ĽSNS: 0.3 APS: 0.2                    •O: 0.2
 •PF: Ipsos                               •FS: 2023-09-22 •FE: 2023-09-25 •SC: N •SS: 1000 SMERSSD: 20.6 PS: 19.8 DV+HLASSD: 11.9 KÚ+SK+ZĽ: 8.2 REP: 7.6 SAS: 7.0 KDH: 5.9 SNS: 5.7 SR: 4.0 SA: 3.4 D: 3.3 ĽSNS: 1.6 MMH: 0.6 MF: 0.1                                                •O: 0.4
-•PF: NMS                                 •FS: 2023-09-21 •FE: 2023-09-24 •SC: N •SS: 1411 PS: 19.7 SMERSSD: 19.4 DV+HLASSD: 10.5 KÚ+SK+ZĽ: 9.5 REP: 8.5 SAS: 5.7 KDH: 5.4 SNS: 5.4 SR: 5.2 SA: 3.1 D: 2.3 ĽSNS: 1.8 MMH: 1.1 MF: 0.3                                                •O: 2.1
+•PF: NMS                                 •FS: 2023-09-21 •FE: 2023-09-24 •SC: N •SS: 1411 PS: 19.7 SMERSSD: 19.4 DV+HLASSD: 10.5 KÚ+SK+ZĽ: 9.5 REP: 8.5 SAS: 5.7 KDH: 5.4 SNS: 5.4 SR: 5.2 SA: 3.1 D: 2.3 ĽSNS: 1.8 MMH: 1.1 APS: 0.4 KSS: 0.4 MF: 0.3 MYSK: 0.1 SDKÚDS: 0.1        •O: 1.2
 •PF: Polis Slovakia                      •FS: 2023-09-16 •FE: 2023-09-20 •SC: N •SS: 1110 SMERSSD: 24.4 PS: 15.1 DV+HLASSD: 12.6 REP: 6.8 SAS: 6.4 SNS: 5.8 KDH: 5.7 KÚ+SK+ZĽ: 5.7 SA: 5.4 SR: 5.3 D: 2.0 ĽSNS: 1.9 MMH: 1.2 MF: 0.6                                                •O: 1.1
 •PF: Ipsos          •C: Pravda           •FS: 2023-09-15 •FE: 2023-09-19 •SC: N •SS: 1026 SMERSSD: 20.3 PS: 17.2 DV+HLASSD: 13.1 REP: 8.6 KÚ+SK+ZĽ: 8.2 SAS: 6.1 SNS: 5.6 KDH: 5.3 SR: 4.2 SA: 4.0 D: 3.4 ĽSNS: 2.6 MMH: 0.9 MF: 0.6                                                •O: 0.9  •VS: 101.0
 •PF: Focus          •C: TV Markíza       •FS: 2023-09-06 •FE: 2023-09-13 •SC: N •SS: 1001 SMERSSD: 18.9 PS: 16.5 DV+HLASSD: 14.6 REP: 8.0 SNS: 6.4 KÚ+SK+ZĽ: 6.3 KDH: 6.2 SAS: 5.1 SR: 4.9 D: 3.7 SA: 3.6 ĽSNS: 1.8 MMH: 1.5 MF: 0.8 KSS: 0.3 SDKÚDS: 0.3 MYSK: 0.2 APS: 0.0        •O: 0.9
@@ -401,3 +401,10 @@ ZĽ:      SK201901 •A: ZĽ       •EN: For the People                        
 ‡ SA = (MOSTHÍD +) SMK-MKP + Ö-S
 ‡ MKÖMKS = SMK + Maďarské Forum + Maďarská Spolupatričnosť
 ‡ M, M-H = MES + M–H 2023
+‡ 
+‡ Lists not yet qualified for registration:
+‡ •A: NK/NEKA: •EN: National Coalition / Independent Candidates •SK: Národná koalícia / Nezávislí kandidáti
+‡ 1: •PF: NMS •FS: 2023-03-28 •FE: 2023-04-02
+‡ 1: •PF: NMS •FS: 2023-05-03 •FE: 2023-05-17
+‡ •A: Piráti •EN: Pirate Party – Slovakia •SK: Pirátska strana – Slovensko
+‡ 1: •PF: Focus •FS: 2023-07-21 •FE: 2023-07-26
