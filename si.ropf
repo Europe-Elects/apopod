@@ -295,6 +295,42 @@
 •PF: Ninamedia   •C: Dnevnik •C: RTV Slovenija          •FS: 2018-06-12 •FE: 2018-06-14 •SC: N •SS: 700            SDS: 25.1 LMŠ: 11.6 SD: 9.2 SMC: 9.2 LEVICA: 8.8 SAB: 3.8 SNS: 3.4 NSI: 3.2 DESUS: 3.1                                                                                  •O: 8.3  •N: 14.3
 •PF: Parsifal SC •C: Nova24TV                           •FS: 2018-06-05 •FE: 2018-06-06 •SC: N •SS: 690            SDS: 23.0 LMŠ: 12.2 SD: 8.8 LEVICA: 7.5 SMC: 5.5 NSI: 4.3 SAB: 3.5 SNS: 3.4 DESUS: 1.2                                                                                  •O: 4.2  •N: 26.5
 
+•PF: IFIMES •FS: 2011-09-28 •FE: 2011-10-10 •SC: N •SS: 888 SDS: 31.2 PS: 11.2 DL: 13.7 SD: 11.9 DESUS: 7.5 SLS: 3.6 SNS: 5.1 TRS: 2.2   LDS: 5.6 LDS: 5.6 •O: 5.6
+•PF: Delo •FS: 2011-10-10 •FE: 2011-10-13  •SC: N •SS: 865 SDS: 19.3 PS: 19.4 DL: 6.0 SD: 4.1 DESUS: 5.3 SLS: 3.1 NSI: 3.2 SNS: 3.2 TRS: 3.7   LDS: 1.7 LDS: 1.7 •O: 0.6 •N: 29.4
+‡ •PF: Finance[13]  •SC: N SDS: 21 PS: 16 DL: 18 SD: 11 DESUS: 6 SLS: 4 NSI: 3 SNS: 2 TRS: 2   LDS: 3 LDS: 3 •O: 3 •N: 11
+‡ •PF: Ninamedia[14]  •SC: N SDS: 19.1 PS: 13.0 DL: 12.8 SD: 7.2 DESUS: 6.0 SLS: 3.6 NSI: 2.4 SNS: 2.4 TRS: 1.6   LDS: 1.3 LDS: 1.3 •O: 0.5 •N: 28.8
+‡ •PF: FUDŠ[15]  •SC: N SDS: 15.5 PS: 8.3 DL: 6.1 SD: 3.0 DESUS: 2.3 SLS: 1.6 NSI: 1.5 SNS: 2.1 TRS: 0.2 SMSZ: 0.5 LDS: 1.6 LDS: 1.6 •O: 1.5 •N: 55.6
+‡ •PF: Mediana[16]  •SC: N SDS: 16.5 PS: 12.5 DL: 17.2 SD: 6.1 DESUS: 3.7 SLS: 4.3 NSI: 0.9 SNS: 2.0 TRS: 1.7   LDS: 1.1 LDS: 1.1 •O: 5.2 •N: 28.2
+‡ •PF: Večer[17]  •SC: N SDS: 18.8 PS: 6.7 DL: 11.2 SD: 3.9 DESUS: 2.3 SLS: 1.3 NSI: 1.3 SNS: 1.3 TRS: 0.9 SMSZ: 0.3 LDS: 0.7 LDS: 0.7 •O: 7.2 •N: 43.1
+‡ •PF: Ninamedia[18]  •SC: N SDS: 27.7 PS: 21.6 DL: 24.9 SD: 7.3 DESUS: 7.7 SLS: 3.0 NSI: 1.8 SNS: 1.1 TRS: 1.8   LDS: 1.4 LDS: 1.4 •O: 0.6 •N: x
+‡ •PF: FUDŠ[19]  •SC: N SDS: 20.5 PS: 12.7 DL: 23.8 SD: 2.6 DESUS: 4.2 SLS: 2.6 NSI: 2.1 SNS: 2.7 TRS: 1.1 SMSZ: 1.0 LDS: 1.1 LDS: 1.1 •O: 0.8 •N: 24.4
+‡ •PF: Episcenter[20]  •SC: N SDS: 24 PS: 17 DL: 23 SD: 6 DESUS: 5 SLS: 4 NSI: 1 SNS: 2 TRS: 2 SMSZ: <1 LDS: 1 LDS: 1 •O: 1 •N: 14
+‡ •PF: CRJM[21]  •SC: N SDS: 18 PS: 15 DL: 18 SD: 4 DESUS: 3 SLS: 1 NSI: 1 SNS: 2 TRS: 1   LDS: 1 LDS: 1 •O: 0 •N: 34
+‡ •PF: Ninamedia[22]  •SC: N SDS: 29.7 PS: 18.4 DL: 23.2 SD: 7.8 DESUS: 6.3 SLS: 4 NSI: 2.6 SNS: 2.2 TRS: 2.2   LDS: 1.5 LDS: 1.5 •O: 0.9 •N: x
+‡ •PF: Delo[23]  •SC: N SDS: 17.7 PS: 15.2 DL: 18.8 SD: 5.4 DESUS: 2.9 SLS: 1.2 NSI: 2.1 SNS: 1.7 TRS: 2.1   LDS: 1.5 LDS: 1.5 •O: 1.3 •N: 26.7
+‡ •PF: Mediana[24]  •SC: N SDS: 25 PS: 14 DL: 19 SD: 6 DESUS: 4 SLS: 4 NSI: 2 SNS: 1 TRS: 1 SMSZ: 3 LDS: 1 LDS: 1 •O: x •N: x
+‡ •PF: Ninamedia[25]  •SC: N SDS: 29.9 PS: 18.9 DL: 15.6 SD: 14.4 DESUS: 5.4 SLS: 3.6 NSI: 3.7 SNS: 3.5 TRS: 2.4   LDS: 1 LDS: 1 •O: x •N: x
+‡ •PF: Parsifal SC[25]  •SC: N SDS: 28 PS: 17.7 DL: 26.5 SD: 7.4 DESUS: 6.1 SLS: 3.6 NSI: 2.9 SNS: 2.4 TRS: 3.4   LDS: 2 LDS: 2 •O: x •N: x
+‡ •PF: Episcenter[26]  •SC: N SDS: 30 PS: 19 DL: 13 SD: 7 DESUS: 5 SLS: 8 NSI: 5 SNS: 3 TRS: 2 SMSZ: 2 LDS: 2 LDS: 2 •O: x •N: x
+‡ •PF: Delo[27]  •SC: N SDS: 18.1 PS: 15.3 DL: 8.6 SD: 5.4 DESUS: 2.9 SLS: 2.5 NSI: 1.9 SNS: 1.8 TRS: 1.4 SMSZ: 1.7 LDS: 0.8 LDS: 0.8 •O: x •N: x
+‡ •PF: Mediana[28]  •SC: N SDS: 27 PS: 19 DL: 14 SD: 8 DESUS: 6 SLS: 4 NSI: 5 SNS: 1 TRS: 2 SMSZ: 3 LDS: 1 LDS: 1 •O: 2 •N: x
+‡ •PF: Ninamedia[29]  •SC: N SDS: 30.8 PS: 19.7 DL: 13.6 SD: 12.6 DESUS: 6.4 SLS: 4.8 NSI: 4.9 SNS: 2.2 TRS: 2.2 SMSZ: 0.3 LDS: 1.2 LDS: 1.2 •O: 0 •N: x
+‡ •PF: Valicon[30]  •SC: N SDS: 28 PS: 21 DL: 13 SD: 8 DESUS: 9 SLS: 6 NSI: 4 SNS: x TRS: x   LDS: x LDS: x •O: 0 •N: x
+‡ •PF: CRJM[31]  •SC: N SDS: 22.5 PS: 15.9 DL: 9.3 SD: 5.6 DESUS: 5.9 SLS: 3.3 NSI: 2.7 SNS: 1.4 TRS: 1.8   LDS: 0.5 LDS: 0.5 •O: 0.5 •N: x
+‡ •PF: Večer[32]  •SC: N SDS: 21.3 PS: 12.5 DL: 6.9 SD: 2.0 DESUS: 1.8 SLS: 3.4 NSI: 3.3 SNS: 0 TRS: 0.3 SMSZ: 0.5 LDS: 0.3 LDS: 0.3 •O: x •N: x
+‡ •PF: Interstat[33]  •SC: N SDS: 27.1 PS: 15.7 DL: 7.8 SD: 6.6 DESUS: 3.7 SLS: 3.5 NSI: 1.8 SNS: 1.7 TRS: 1.2 SMSZ: 0.8 LDS: 0.6 LDS: 0.6 •O: 0.1 •N: 28.6
+‡ •PF: Ninamedia[34]  •SC: N SDS: 29.0 PS: 23.7 DL: 10.8 SD: 9.9 DESUS: 6.4 SLS: 5.2 NSI: 3.8 SNS: 2.9 TRS: 1.5 SMSZ: 1.7 LDS: 1.1 LDS: 1.1 •O: x •N: x
+‡ •PF: Episcenter[35]  •SC: N SDS: 30 PS: 20 DL: 11 SD: 11 DESUS: 8 SLS: 8 NSI: 5 SNS: 2 TRS: 1 SMSZ: 1 LDS: 1 LDS: 1 •O: x •N: x
+‡ •PF: Delo[36]  •SC: N SDS: 35.5 PS: 22.7 DL: 9.2 SD: 10.6 DESUS: 5.4 SLS: 3.2 NSI: 3.2 SNS: 4.4 TRS: 1.5 SMSZ: 1.3 LDS: 1.7 LDS: 1.7 •O: x •N: x
+‡ •PF: Mediana[37]  •SC: N SDS: 31 PS: 18 DL: 8 SD: 8 DESUS: 5 SLS: 5 NSI: 7 SNS: 3 TRS: 3 SMSZ: 1 LDS: 1 LDS: 1 •O: 1 •N: x
+‡ •PF: FUDŠ[38]  •SC: N SDS: 37.45 PS: 19.09 DL: 8.91 SD: 11.27 DESUS: 5.82 SLS: 3.45 NSI: 4.36 SNS: 0.73 TRS: 2.91 SMSZ: 2.73 LDS: 2.00 LDS: 2.00 •O: x •N: x
+‡ •PF: Mladina[39]  •SC: N SDS: 32.4 PS: 25.1 DL: 6.0 SD: 12.1 DESUS: 6.6 SLS: 5.3 NSI: 5.2 SNS: 1.5 TRS: 1.5 SMSZ: 1.4 LDS: 1.5 LDS: 1.5 •O: x •N: x
+‡ •PF: Radio Ognjišče[40]  •SC: N SDS: 30.9 PS: 19.8 DL: 8.0 SD: 12.2 DESUS: 7.6 SLS: 4.2 NSI: 5.7 SNS: 2.0 TRS: x SMSZ: 3.1 LDS: 0.7 LDS: 0.7 •O: x •N: 21.3
+‡ •PF: FUDŠ[41]  •SC: N SDS: 33.2 PS: 22.7 DL: 8.1 SD: 10.6 DESUS: 6.0 SLS: 6.5 NSI: 6.1 SNS: 2.7 TRS: 0.5 SMSZ: 1.3 LDS: 1.8 LDS: 1.8 •O: x •N: x
+‡ •PF: Valicon[42]  •SC: N SDS: 31 PS: 19 DL: 7 SD: 13 DESUS: 8 SLS: 8 NSI: 6 SNS: x TRS: x   LDS: x LDS: x •O: x •N: x
+‡ •PF: FUDŠ[43]  •SC: N SDS: 36.6 PS: 19.8 DL: 8.2 SD: 9.8 DESUS: 8.0 SLS: 9.0 NSI: 4.2 SNS: 1.3 TRS: 0.9 SMSZ: 0.6 LDS: 0.9 LDS: 0.9 •O: x •N: x
+‡ •PF: Mediana[44]  •SC: N SDS: 28.5 PS: 24.6 DL: 8.1 SD: 14.3 DESUS: 5.8 SLS: 7.4 NSI: 3.7 SNS: 2.5 TRS: 2.5 SMSZ: 0.1 LDS: 1.6 LDS: 1.6 •O: x •N: x
+
 •PF: Ninamedia                                          •FS: 2008-07-15 •FE: 2008-07-17 •SC: N •SS: 1000           SD: 25.7 SDS: 22.4 ZARES: 8.4 LDS: 7.2 SNS: 6.3 DESUS: 4.5 SLS: 1.7 NSI: 1.5                                                                                                              •ON: 22.3
 •PF: Ninamedia                                          •FS: 2008-06    •FE: 2008-06    •SC: N •SS: 1000           SD: 22.1 SDS: 20.6 ZARES: 9.4 LDS: 7.9 DESUS: 5.2 SNS: 4.3 SLS: 3.8 NSI: 2.1                                                                                                              •ON: 24.6
                  •C: Delo                               •FS: 2008-05-26 •FE: 2008-05-29 •SC: N •SS: 704            SD: 19.2 SDS: 15.2 ZARES: 6.3 SNS: 5.9 LDS: 4.7 DESUS: 3.0 SLS: 2.2 NSI: 2.1                                                                                                              •ON: 41.4
@@ -330,6 +366,10 @@ SNS:       SI199101 •A: SNS       •EN: Slovenian National Party             
 VESNA:     SI021    •A: VESNA     •EN: VESNA – Green Party                        •SL: VESNA – zelena stranka
 ZARES:     SI200701 •A: Zares     •EN: Zares – Social Liberals                    •SL: Zares – socialno-liberalni)
 ZS:        SI013    •A: ZS        •EN: Greens of Slovenia                         •SL: Zeleni Slovenije
+DL: SI201101 •A: DL •EN: Civic List •SL: Državljanska lista
+PS: SI201102 •A: PS •EN: Positive Slovenia •SL: Pozitivna Slovenija
+TRS: SI201103 •A: TRS •EN: Party for Sustainable Development of Slovenia •SL: Stranka za trajnostni razvoj Slovenije
+SMSZ: SI200002 •A: SMS-Z •EN: Youth Party – European Greens •SL: Stranka mladih – Zeleni Evrope
 
 ‡ Named alliances:
 ‡ POS = K + SLS + ZS + NLS + NS
