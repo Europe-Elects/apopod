@@ -294,15 +294,16 @@
 •PF: Mediana     •C: POP TV                             •FS: 2018-06-01 •FE: 2018-06-23 •SC: N •SS: 743  •EX: 19.7 SDS: 24.7 LMŠ: 10.1 LEVICA: 8.4 SD: 8.2 SMC: 5.6 NSI: 4.6 SNS: 3.8 SAB: 3.5 DESUS: 2.7 SLS: 2.0                                                                         •O: 3.4
 •PF: Ninamedia   •C: Dnevnik •C: RTV Slovenija          •FS: 2018-06-12 •FE: 2018-06-14 •SC: N •SS: 700            SDS: 25.1 LMŠ: 11.6 SD: 9.2 SMC: 9.2 LEVICA: 8.8 SAB: 3.8 SNS: 3.4 NSI: 3.2 DESUS: 3.1                                                                                  •O: 8.3  •N: 14.3
 •PF: Parsifal SC •C: Nova24TV                           •FS: 2018-06-05 •FE: 2018-06-06 •SC: N •SS: 690            SDS: 23.0 LMŠ: 12.2 SD: 8.8 LEVICA: 7.5 SMC: 5.5 NSI: 4.3 SAB: 3.5 SNS: 3.4 DESUS: 1.2                                                                                  •O: 4.2  •N: 26.5
-                 •C: Delo                               •FS: 2008-05-26 •FE: 2008-05-29 •SC: N •SS: 704            SD: 19.2 SDS: 15.2 ZARES: 6.3
+                 •C: Delo                               •FS: 2008-05-26 •FE: 2008-05-29 •SC: N •SS: 704            SD: 19.2 SDS: 15.2 ZARES: 6.3 SNS: 5.9 LDS: 4.7 DESUS: 3.0 SLS: 2.2 NSI: 2.1                                                                                                              •ON: 41.4
 
 DD:        SI012    •A: DD        •EN: Good State                                 •SL: Dobra država
 DEMOKRATI: SI023    •A: Demokrati •EN: Democrats                                  •SL: Demokrati
-DESUS:     SI009    •A: DeSUS     •EN: Democratic Party of Pensioners of Slovenia •SL: Demokratična stranka upokojencev Slovenije
+DESUS:     SI199102 •A: DeSUS     •EN: Democratic Party of Pensioners of Slovenia •SL: Demokratična stranka upokojencev Slovenije
 ERJAVEC:   SI028    •A: Erjavec                                                   •SL: Karl Erjavec
 GS:        SI016    •A: GS        •EN: Freedom Movement                           •SL: Gibanje Svoboda
 K:         SI018    •A: K         •EN: Concretely                                 •SL: Konkretno
 KORDIŠ:    SI025    •A: Kordiš                                                    •SL: Miha Kordiš
+LDS:       SI199401 •A: LDS       •EN: Liberal Democracy of Slovenia              •SL: Liberalna demokracija Slovenije
 LEVICA:    SI002    •A: Levica    •EN: The Left                                   •SL: Levica
 LIDE:      SI020    •A: LIDE      •EN: Liberal Democrats                          •SL: Liberalni demokrati
 LMŠ:       SI003    •A: LMŠ       •EN: List of Marjan Šarec                       •SL: Lista Marjana Šarca
@@ -310,7 +311,7 @@ LOTRIČ:    SI027    •A: Lotrič                                              
 LRG:       SI017    •A: LRG       •EN: List of Robert Golob                       •SL: Lista Roberta Goloba
 ND:        SI015    •A: ND        •EN: Our Country                                •SL: Naša dežela
 NP:        SI022    •A: NP        •EN: Our Future                                 •SL: Naša prihodnost
-NSI:       SI006    •A: NSi       •EN: New Slovenia – Christian Democrats         •SL: Nova Slovenija – Krščanski demokrati
+NSI:       SI200001 •A: NSi       •EN: New Slovenia – Christian Democrats         •SL: Nova Slovenija – Krščanski demokrati
 POS:       SI014    •A: PoS       •EN: Let’s Connect Slovenia                     •SL: Povežimo Slovenijo
 PREBILIČ:  SI024    •A: Prebilič                                                  •SL: Vladimir Prebilič
 PSS:       SI011    •A: PSS       •EN: Pirate Party of Slovenia                   •SL: Piratska stranka Slovenije
@@ -319,9 +320,9 @@ RUPAR:     SI026    •A: Rupar                                                 
 SAB:       SI007    •A: SAB       •EN: Party of Alenka Bratušek                   •SL: Stranka Alenke Bratušek
 SD:        SI199301 •A: SD        •EN: Social Democrats                           •SL: Socialni demokrati
 SDS:       SI198901 •A: SDS       •EN: Slovenian Democratic Party                 •SL: Slovenska demokratska stranka
-SLS:       SI010    •A: SLS       •EN: Slovenian People’s Party                   •SL: Slovenska ljudska stranka
+SLS:       SI198801 •A: SLS       •EN: Slovenian People’s Party                   •SL: Slovenska ljudska stranka
 SMC:       SI005    •A: SMC       •EN: Modern Centre Party                        •SL: Stranka modernega centra
-SNS:       SI008    •A: SNS       •EN: Slovenian National Party                   •SL: Slovenska Nacionalna Stranka
+SNS:       SI199101 •A: SNS       •EN: Slovenian National Party                   •SL: Slovenska Nacionalna Stranka
 VESNA:     SI021    •A: VESNA     •EN: VESNA – Green Party                        •SL: VESNA – zelena stranka
 ZARES:     SI200701 •A: Zares     •EN: Zares – Social Liberals                    •SL: Zares – socialno-liberalni)
 ZS:        SI013    •A: ZS        •EN: Greens of Slovenia                         •SL: Zeleni Slovenije
