@@ -375,6 +375,19 @@
                  •C: Delo                               •FS: 2011-10-10 •FE: 2011-10-13                 •SC: N •SS: 865            PS: 19.4 SDS: 19.3 DL: 6.0 DESUS: 5.3 SD: 4.1 TRS: 3.7 NSI: 3.2 SNS: 3.2 SLS: 3.1 LDS: 1.7 ZARES: 1.0                                                                   •O: 0.6  •N: 29.4
 •PF: IFIMES                                             •FS: 2011-09-28 •FE: 2011-10-10                 •SC: N •SS: 888            SDS: 31.2 DL: 13.7 SD: 11.9 PS: 11.2 DESUS: 7.5 LDS: 5.6 SNS: 5.1 SLS: 3.6 ZARES: 2.4 TRS: 2.2                                                                          •O: 5.6
 
+•PF: Ninamedia •FS: 2010-01 •FE: 2010-01 •SC: N DESUS: 3.0 LDS: 6.1 SDS: 20.4 SLS: 2.8 SNS: 8.8 SD: 19.6 ZARES: 5.4 •O: 2.0 •N: 31.8
+•PF: Ninamedia •FS: 2010-02 •FE: 2010-02 •SC: N DESUS: 2.8 LDS: 5.3 SDS: 20.0 SLS: 2.4 SNS: 7.9 SD: 18.4 ZARES: 4.3 •O: 2.5 •N: 36.3
+•PF: Ninamedia •FS: 2010-03 •FE: 2010-03 •SC: N DESUS: 4.0 LDS: 5.3 SDS: 19.4 SLS: 3.1 SNS: 4.9 SD: 19.3 ZARES: 4.6 •O: 1.4 •N: 38.0
+•PF: Ninamedia •FS: 2010-04 •FE: 2010-04 •SC: N DESUS: 4.8 LDS: 5.4 SDS: 20.6 SLS: 2.6 SNS: 3.4 SD: 17.6 ZARES: 3.9 •O: 2.1 •N: 39.6
+•PF: Ninamedia •FS: 2010-05 •FE: 2010-05 •SC: N DESUS: 3.1 LDS: 5.4 SDS: 19.1 SLS: 2.5 SNS: 4.1 SD: 18.0 ZARES: 4.2 •O: 2.9 •N: 40.6
+•PF: Ninamedia •FS: 2010-06 •FE: 2010-06 •SC: N DESUS: 1.8 LDS: 5.1 SDS: 22.3 SLS: 4.2 SNS: 3.9 SD: 22.0 ZARES: 4.4 •O: 1.9 •N: 34.3
+•PF: Ninamedia •FS: 2010-07 •FE: 2010-07 •SC: N DESUS: 4.4 LDS: 4.3 SDS: 18.1 SLS: 2.3 SNS: 4.4 SD: 17.6 ZARES: 4.0 •O: 1.6 •N: 43.4
+•PF: Ninamedia •FS: 2010-08 •FE: 2010-08 •SC: N DESUS: 5.0 LDS: 4.6 SDS: 22.1 SLS: 1.9 SNS: 4.8 SD: 17.6 ZARES: 3.5 •O: 1.6 •N: 38.9
+•PF: Ninamedia •FS: 2010-09 •FE: 2010-09 •SC: N DESUS: 7.3 LDS: 5.1 SDS: 16.8 SLS: 2.2 SNS: 4.4 SD: 17.8 ZARES: 4.0 •O: 2.1 •N: 40.4
+•PF: Ninamedia •FS: 2010-10 •FE: 2010-10 •SC: N DESUS: 9.6 LDS: 6.5 SDS: 18.6 SLS: 3.8 SNS: 3.2 SD: 17.7 ZARES: 3.9 •O: 3.7 •N: 33.0
+•PF: Ninamedia •FS: 2010-11 •FE: 2010-11 •SC: N DESUS: 15.5 LDS: 3.2 SDS: 19.3 SLS: 3.4 SNS: 3.7 SD: 13.9 ZARES: 2.9 •O: 1.9 •N: 36.3
+•PF: Ninamedia •FS: 2010-12 •FE: 2010-12 •SC: N DESUS: 9.3 LDS: 4.2 SDS: 22.0 SLS: 5.3 SNS: 4.2 SD: 12.4 ZARES: 2.2 •O: 2.9 •N: 37.5
+
 •PF: Ninamedia •FS: 2009-01 •FE: 2009-01 •SC: N DESUS: 4.8 LDS: 5.1 SDS: 19.4 SLS: 1.4 SNS: 6.5 SD: 27.7 ZARES: 11.3 •O: 1.7 •N: 22.1
 •PF: Ninamedia •FS: 2009-02 •FE: 2009-02 •SC: N DESUS: 3.8 LDS: 4.7 SDS: 21.2 SLS: 3.5 SNS: 7.9 SD: 21.3 ZARES: 9.4 •O: 2.3 •N: 25.8
 •PF: Ninamedia •FS: 2009-03 •FE: 2009-03 •SC: N DESUS: 4.4 LDS: 5.1 SDS: 17.1 SLS: 2.9 SNS: 6.6 SD: 25.9 ZARES: 10.5 •O: 2.0 •N: 25.5
