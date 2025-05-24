@@ -316,6 +316,7 @@
 ‡ •PF: Episcenter[a] •SC: N SMC:35.2  PS: 2.0  SDS: 23.6  SD: 8.1  DL: 0.7  DESUS: 8.4  SLS: 3.2  NSI: 6.8  ZL: 2.8  SAB: 2.5  •O: 6.6
 ‡ •PF: Mediana[a] •SC: N SMC:30.0  PS: 3.3  SDS: 23.4  SD: 10.9  DL: 1.1  DESUS: 9.2  SLS: 5.1  NSI: 5.1  ZL: 2.2  SAB: 2.5  •O: 7.5
 
+•PF: Ninamedia                                          •FS: 2014-05    •FE: 2014-05                    •SC: N                     SD:  8.1 SDS:14.8 PS: 4.4 DESUS: 7.1 NSI: 4.3 SLS: 3.2 DL: 1.2 SMC: 3.0 SAB: 2.6 VERJANEM: 2.7                                                                              •O: 1.7  •N: 46.8
 •PF: Ninamedia                                          •FS: 2014-04-15 •FE: 2014-04-17                 •SC: N                     SD: 12.1 SDS:11.8 PS: 5.6 DESUS: 4.6 NSI: 3.2 SLS: 2.6 DL: 1.4 SOLIDARNOST: 0.6  ZL: 0.3                                                                                •O: 1.9  •N: 55.8
 •PF: Episcenter •C: TSmedia •SC: N •FS: 2014-04-08 •FE: 2014-04-16 •SS: 1005  PS: 8.3  SDS: 24.7  SD: 24.2  DL: 2.1  DESUS: 5.0  SLS: 5.8  NSI: 6.9  ZL: 4.2     •O: 18.9
 •PF: Ninamedia                                          •FS: 2014-03-18 •FE: 2014-03-20                 •SC: N                     SD: 12.4 SDS:15.5 PS: 5.0 DESUS: 5.7 NSI: 3.6 SLS: 2.8 DL: 1.2 SOLIDARNOST: 1.1  ZL: 2.1                                                                                •O: 2.7  •N: 47.9
@@ -573,12 +574,12 @@ PS:          SI201102 •A: PS          •EN: Positive Slovenia                
 PSS:         SI011    •A: PSS         •EN: Pirate Party of Slovenia                      •SL: Piratska stranka Slovenije
 RESNICA:     SI019    •A: Resni.ca                                                       •SL: Resni.ca
 RUPAR:       SI026    •A: GU                                                             •SL: Glas upokojencev
-SAB:         SI007    •A: SAB         •EN: Party of Alenka Bratušek                      •SL: Stranka Alenke Bratušek
+SAB:         SI201404 •A: SAB         •EN: Party of Alenka Bratušek                      •SL: Stranka Alenke Bratušek
 SD:          SI199301 •A: SD          •EN: Social Democrats                              •SL: Socialni demokrati
 SDS:         SI198901 •A: SDS         •EN: Slovenian Democratic Party                    •SL: Slovenska demokratska stranka
 SKD:         SI198902 •A: SKD         •EN: Slovene Christian Democrats                   •SL: Slovenski krščanski demokrati
 SLS:         SI198801 •A: SLS         •EN: Slovenian People’s Party                      •SL: Slovenska ljudska stranka
-SMC:         SI005    •A: SMC         •EN: Modern Centre Party                           •SL: Stranka modernega centra
+SMC:         SI201402 •A: SMC         •EN: Modern Centre Party                           •SL: Stranka modernega centra
 SMSZ:        SI200002 •A: SMS-Z       •EN: Youth Party – European Greens                 •SL: Stranka mladih – Zeleni Evrope
 SNS:         SI199101 •A: SNS         •EN: Slovenian National Party                      •SL: Slovenska Nacionalna Stranka
 SOLIDARNOST: SI201301 •A: Solidarnost •EN: Solidarity, for a Fair Society                •SL: Solidarnost, za pravično družbo
@@ -587,6 +588,7 @@ VESNA:       SI021    •A: VESNA       •EN: VESNA – Green Party            
 ZARES:       SI200701 •A: Zares       •EN: Zares – Social Liberals                       •SL: Zares – socialno-liberalni)
 ZS:          SI013    •A: ZS          •EN: Greens of Slovenia                            •SL: Zeleni Slovenije
 ZL: SI201401 •A: ZL •EN: United Left •SL: Združena levica
+VERJANEM: SI201403 •A: Verjamem •SL: Verjamem •EN: I believe
 
 ‡ Named alliances:
 ‡ POS = K + SLS + ZS + NLS + NS
