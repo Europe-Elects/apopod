@@ -387,10 +387,10 @@
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik     •FS/FE: 10–12 Jan 2017  •SC: N  •SS: 700  SDS: 12.7   SD: 10.3  SMC: 10.6  ZL: 7.0  NSI: 6.4  DESUS: 4.5      •N: 44.7
 ‡ •C: Delo    •FS/FE: 29 Dec 2016-4 Jan 2017  •SC: N  •SS: 1021  SDS: 14.3   SD: 10.9  SMC: 11.0  ZL: 6.7  NSI: 5.1  SAB: 0.2  DESUS: 2.4  SNS: 2.2  SLS: 2.0      •O: 5.4  •N: 39.8
 ‡ •PF: Parsifal •C: Nova24TV    •FS/FE: 8 Jan 2017  •SC: N  •SS: 610  SDS: 16.3   SD: 8.8  SMC: 7.0  ZL: 4.2  NSI: 5.1  SAB: 1.5  DESUS: 3.9  SNS: 2.4  SLS: 3.8  GOD: 3.8  NLS: 1.1    •O: 0.5  •N: 41.6
-‡ •PF: Mediana •C: POP TV   •FS/FE: 23 Dec 2016  •SC: N  •SS: 715  SDS: 12.3   SD: 5.8  SMC: 5.1  ZL: 3.6  NSI: 3.7  SAB: 0.3  DESUS: 5.7  SNS: 0.2  SLS: 1.9    PS: 0.2   •O: 1.4  •N: 59.9
-‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS/FE: 13–15 Dec 2016  •SC: N  •SS: 700  SDS: 14.0   SD: 11.2  SMC: 10.3  ZL: 7.2  NSI: 6.2  DESUS: 4.8      •N: 43.3
-‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 30 Nov-2 Dec 2016  •SC: N  •SS: 614  SDS: 12.5   SD: 7.4  SMC: 8.5  ZL: 4.7  NSI: 6.2  SAB: 0.9  DESUS: 3.5  SNS: 1.7  SLS: 4.3  GOD: 1.4  NLS: 2.3    •O: 1.1  •N: 45.4
-‡ •C: Delo     •FS/FE: 28 Nov-2 Dec 2016  •SC: N  •SS: 1001  SDS: 15.9   SD: 8.6  SMC: 9.0  ZL: 8.4  NSI: 6.0  SAB: 0.5  DESUS: 3.3  SNS: 1.7  SLS: 1.9  GOD: 1.8     •O: 5.6  •N: 39.1
+ •PF: Mediana •C: POP TV   •PD: 2016-12-25 •SC: N  •SS: 715  SDS: 12.3   SD: 5.8  SMC: 5.1  ZL: 3.6  NSI: 3.7  SAB: 0.3  DESUS: 5.7  SNS: 0.2  SLS: 1.9    PS: 0.2   •O: 1.4  •N: 59.9
+ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS: 2016-12-13 •FE: 2016-12-15  •SC: N  •SS: 700  SDS: 14.0   SD: 11.2  SMC: 10.3  ZL: 7.2  NSI: 6.2  DESUS: 4.8      •N: 43.3
+ •PF: Parsifal •C: Nova24TV   •FS: 2016-11-30 •FE: 2016-12-02  •SC: N  •SS: 614  SDS: 12.5   SD: 7.4  SMC: 8.5  ZL: 4.7  NSI: 6.2  SAB: 0.9  DESUS: 3.5  SNS: 1.7  SLS: 4.3  GOD: 1.4  NLS: 2.3    •O: 1.1  •N: 45.4
+ •C: Delo     •FS: 2016-11-28 •FE: 2016-12-02  •SC: N  •SS: 1001  SDS: 15.9   SD: 8.6  SMC: 9.0  ZL: 8.4  NSI: 6.0  SAB: 0.5  DESUS: 3.3  SNS: 1.7  SLS: 1.9      •O: 5.6  •N: 39.1
  •PF: Mediana •C: POP TV •PD: 2016-11-27   •SC: N  •SS: 718  SDS: 15.0   SD: 4.8  SMC: 7.5  ZL: 2.5  NSI: 4.9  SAB: 0.7  DESUS: 3.2  SNS: 0.7  SLS: 1.4    PS: 0.4   •O: 0.9  •N: 57.9
  •C: Delo  •FS: 2016-10-27    •FE: 2016-11-03  •SC: N  •SS: 1000  SDS: 12.5   SD: 9.2  SMC: 9.5  ZL: 6.6  NSI: 4.8  SAB: 0.7  DESUS: 3.6  SNS: 1.4  SLS: 1.9      •O: 5.6  •N: 44.2
  •PF: Parsifal •C: Nova24TV •PD: 2016-10-29   •SC: N  •SS: 603  SDS: 12.2   SD: 6.0  SMC: 3.1  ZL: 3.0  NSI: 3.2  SAB: 0.6  DESUS: 6.3  SNS: 0.9  SLS: 1.7  GOD: 2.2  NLS: 1.0    •O: 0.7  •N: 59.0
