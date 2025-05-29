@@ -379,10 +379,10 @@
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS/FE: 14–16 Mar 2017  •SC: N  •SS: 700  SDS: 14.0   SD: 10.8  SMC: 6.3  ZL: 5.8  NSI: 5.0  DESUS: 6.5      •N: 48.2
 ‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 7–9 Mar 2017  •SC: N  •SS: 608  SDS: 13.1   SD: 5.1  SMC: 7.1  ZL: 3.5  NSI: 3.4  SAB: 0.5  DESUS: 4.2  SNS: 1.8  SLS: 2.4  GOD: 0.9  NLS: 2.1    •O: 0.6  •N: 55.3
 ‡ •C: Delo     •FS/FE: 23 Feb-2 Mar 2017  •SC: N  •SS: 1002  SDS: 12.9   SD: 11.4  SMC: 6.7  ZL: 7.9  NSI: 6.8  SAB: 0.7  DESUS: 5.5  SNS: 2.7  SLS: 3.5      •O: 7.4  •N: 34.5
-‡ •PF: Mediana •C: POP TV   •FS/FE: 24 Feb 2017  •SC: N  •SS: 708  SDS: 10.3   SD: 4.5  SMC: 5.1  ZL: 3.1  NSI: 2.8  DESUS: 4.8  SNS: 0.5  SLS: 1.4    PS: 0.8   •O: 0.7  •N: 66.2
-‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS/FE: 14–16 Feb 2017  •SC: N  •SS: 700  SDS: 12.9   SD: 9.6  SMC: 9.7  ZL: 6.0  NSI: 5.6  DESUS: 5.0  SLS: 2.1      •N: 48.3
-‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 6–9 Feb 2017  •SC: N  •SS: 614  SDS: 13.7   SD: 9.0  SMC: 7.6  ZL: 5.5  NSI: 5.2  SAB: 1.2  DESUS: 3.5  SNS: 4.3  SLS: 3.7  GOD: 2.4  NLS: 1.2    •O: 0.2  •N: 42.6
-‡ •C: Delo     •FS/FE: 30 Jan-3 Feb 2017  •SC: N  •SS: 1000  SDS: 13.2   SD: 9.4  SMC: 10.5  ZL: 8.2  NSI: 4.9  SAB: 0.4  DESUS: 5.2  SNS: 2.5  SLS: 2.3    PS: 2.5   •O: 9.4  •N: 34.0
+ •PF: Mediana •C: POP TV   •PD: 2017-02-26  •SC: N  •SS: 708  SDS: 10.3   SD: 4.5  SMC: 5.1  ZL: 3.1  NSI: 2.8  DESUS: 4.8  SNS: 0.5  SLS: 1.4    PS: 0.8   •O: 0.7  •N: 66.2
+ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS: 2017-02-14 •FE: 2017-02-16  •SC: N  •SS: 700  SDS: 12.9   SD: 9.6  SMC: 9.7  ZL: 6.0  NSI: 5.6  DESUS: 5.0  SLS: 2.1      •N: 48.3
+ •PF: Parsifal •C: Nova24TV   •FS: 2017-02-06 •FE: 2017-02-09  •SC: N  •SS: 614  SDS: 13.7   SD: 9.0  SMC: 7.6  ZL: 5.5  NSI: 5.2  SAB: 1.2  DESUS: 3.5  SNS: 4.3  SLS: 3.7  GOD: 2.4  NLS: 1.2    •O: 0.2  •N: 42.6
+ •C: Delo     •FS: 2017-01-30 •FE: 2017-02-03  •SC: N  •SS: 1000  SDS: 13.2   SD: 9.4  SMC: 10.5  ZL: 8.2  NSI: 4.9  SAB: 0.4  DESUS: 5.2  SNS: 2.5  SLS: 2.3       •O: 9.4  •N: 34.0
  •PF: Mediana •C: POP TV   •PD: 2017-01-22  •SC: N  •SS: 715  SDS: 11.1   SD: 2.8  SMC: 6.5  ZL: 2.8  NSI: 2.7  SAB: 0.8  DESUS: 3.5  SNS: 0.9  SLS: 2.8    PS: 0.9   •O: 2.1  •N: 63.2
  •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik     •FS: 2017-01-10 •FE: 2017-01-12  •SC: N  •SS: 700  SDS: 12.7   SD: 10.3  SMC: 10.6  ZL: 7.0  NSI: 6.4  DESUS: 4.5      •N: 44.7
  •C: Delo    •FS: 2016-12-29 •FE: 2017-01-04  •SC: N  •SS: 1021  SDS: 14.3   SD: 10.9  SMC: 11.0  ZL: 6.7  NSI: 5.1  SAB: 0.2  DESUS: 2.4  SNS: 2.2  SLS: 2.0      •O: 5.4  •N: 39.8
