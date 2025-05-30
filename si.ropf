@@ -297,6 +297,8 @@
 •PF: Mediana     •C: POP TV                              •FS: 2018-06-01 •FE: 2018-06-23                 •SC: N •SS: 743  •EX: 19.7 SDS: 24.7 LMŠ: 10.1 LEVICA: 8.4 SD: 8.2 SMC: 5.6 NSI: 4.6 SNS: 3.8 SAB: 3.5 DESUS: 2.7 SLS: 2.0                                                                      •O: 3.4
 •PF: Ninamedia   •C: Dnevnik •C: RTV Slovenija           •FS: 2018-06-12 •FE: 2018-06-14                 •SC: N •SS: 700            SDS: 25.1 LMŠ: 11.6 SD: 9.2 SMC: 9.2 LEVICA: 8.8 SAB: 3.8 SNS: 3.4 NSI: 3.2 DESUS: 3.1                                                                               •O: 8.3  •N: 14.3
 •PF: Parsifal SC •C: Nova24TV                            •FS: 2018-06-05 •FE: 2018-06-06                 •SC: N •SS: 690            SDS: 23.0 LMŠ: 12.2 SD: 8.8 LEVICA: 7.5 SMC: 5.5 NSI: 4.3 SAB: 3.5 SNS: 3.4 DESUS: 1.2                                                                               •O: 4.2  •N: 26.5
+•PF: Parsifal    •C: Nova24TV                            •FS: 2017-10-02 •FE: 2017-10-06                 •SC: N •SS: 722            SDS: 15.6 SD: 10.3 NSI: 6.7 SMC: 6.5 DESUS: 4.4 LEVICA: 3.3 SNS: 2.8 SLS: 2.3 GOD: 2.1 NLS: 0.3 SAB: 0.3                                                             •O: 1.0  •N: 43.7           •VS: 99.3
+                 •C: Delo                                •FS: 2017-09-28 •FE: 2017-10-05                 •SC: N •SS: 1020           SD: 16.4 SDS: 15.0 SMC: 11.9 NSI: 7.1 LEVICA: 6.7 DESUS: 5.5 GOD: 2.1 SLS: 2.0 SNS: 1.4
 •PF: Mediana     •C: POP TV                                                              •PD: 2017-09-24 •SC: N •SS: 712            SDS: 12.5 SD: 7.3 SMC: 6.3 LEVICA: 4.7 NSI: 4.5 DESUS: 3.3 SLS: 2.3 SNS: 0.7 GOD: 0.5 PS: 0.5 NLS: 0.2                                                               •O: 2.0  •N: 55.1
 •PF: Ninamedia   •C: Dnevnik •C: RTV Slovenija           •FS: 2017-09-12 •FE: 2017-09-14                 •SC: N •SS: 700            SDS: 14.2 SD: 13.0 SMC: 10.1 LEVICA: 6.3 NSI: 5.5 DESUS: 4.5                                                                                                                  •N: 41.3
 •PF: Parsifal    •C: Nova24TV                            •FS: 2017-09-11 •FE: 2017-09-13                 •SC: N •SS: 700            SDS: 14.3 SD: 11.8 LEVICA: 8.5 DESUS: 7.1 SMC: 6.9 NSI: 6.3 SLS: 3.9 SNS: 2.5 GOD: 1.7 SAB: 0.8 NLS: 0.5                                                             •O: 0.4  •N: 33.1           •VS: 97.8
@@ -716,19 +718,19 @@ ZS:          SI198903 •A: ZS          •EN: Greens of Slovenia               
 ZD: SI201801 •A: ZD •EN: United Right •SL: Združena desnica
 
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 31 May 2018  •SC: N  •SS: 1037  SDS: 23.7  LMŠ: 11.2  SD: 7.8  SMC: 7.7  LEVICA: 7.9  NSI: 5.7  SAB: 5.7  DESUS: 4.5  SNS: 4.0  SLS: 2.5     •O: 6.7  •N: 9.7
-‡ •PF: Ninamedia/Dnevnik/Večer   •FS/FE: 31 May 2018  •SC: N  •SS: 900  SDS: 26.1  LMŠ: 11.5  SD: 12.8  SMC: 9.8  LEVICA: 8.3  NSI: 7.3  SAB: 3.2  DESUS: 7.9  SNS: 3.4  SLS: 3.8     •O: 5.9  •N: 0.0
+‡ •PF: Ninamedia/Dnevnik/Večer   •FS/FE: 31 May 2018  •SC: N  •SS: 900  SDS: 26.1  LMŠ: 11.5  SD: 12.8  SMC: 9.8  LEVICA: 8.3  NSI: 7.3  SAB: 3.2  DESUS: 7.9  SNS: 3.4  SLS: 3.8     •O: 5.9
 ‡ •PF: Valicon   •FS/FE: 28–31 May 2018  •SC: N  •SS: 2255  SDS: 15.1  LMŠ: 10.7  SD: 11.5  SMC: 7.1  LEVICA: 7.9  NSI: 6.2  SAB: 3.8  DESUS: 4.2  SNS: 3.3  SLS: 2.5  ZD: 0.4  NLS:    •N: 12.9
 ‡ •PF: Mediana/RTVSLO   •FS/FE: 26–31 May 2018  •SC: N  •SS: 1037  SDS: 16.5  LMŠ: 8.3  SD: 5.6  SMC: 4.4  LEVICA: 6.9  NSI: 4.6  SAB: 3.2  DESUS: 3.9  SNS: 4.1  SLS: 1.5     •N: 29.9
 ‡ •PF: Mediana/Delo   •FS/FE: 25–30 May 2018  •SC: N  •SS: 1006  SDS: 16.3  LMŠ: 7.6  SD: 5.5  SMC: 4.8  LEVICA: 6.8  NSI: 4.7  SAB: 2.7  DESUS: 4.7  SNS: 3.9  SLS: 2.1  ZD: 0.1  NLS:    •N: 33.0
 ‡ •PF: Mediana/Delo   •FS/FE: 25–30 May 2018  •SC: N  •SS: 584  SDS: 22.9  LMŠ: 8.2  SD: 6.7  SMC: 6.8  LEVICA: 6.6  NSI: 6.0  SAB: 3.9  DESUS: 5.1  SNS: 3.9  SLS: 3.4     DL:  •O: 7.0  •N: 19.5
-‡ •PF: Ninamedia/Dnevnik/Večer   •FS/FE: 29 May 2018  •SC: N  •SS: 900  SDS: 25.5  LMŠ: 13.7  SD: 12.5  SMC: 8.8  LEVICA: 6.6  NSI: 8.3  SAB: 3.9  DESUS: 8.1  SNS: 2.6  SLS: 2.4     •O: 7.6  •N: 0.0
+‡ •PF: Ninamedia/Dnevnik/Večer   •FS/FE: 29 May 2018  •SC: N  •SS: 900  SDS: 25.5  LMŠ: 13.7  SD: 12.5  SMC: 8.8  LEVICA: 6.6  NSI: 8.3  SAB: 3.9  DESUS: 8.1  SNS: 2.6  SLS: 2.4     •O: 7.6
 ‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 25–29 May 2018  •SC: N  •SS: 1061  SDS: 18.1  LMŠ: 9.3  SD: 5.0  SMC: 4.7  LEVICA: 3.8  NSI: 4.6  SAB: 1.0  DESUS: 3.9  SNS: 3.0  SLS: 2.2     •O: 7.6  •N: 38.2
 ‡ •PF: Mediana/SiOL/Planet TV   •FS/FE: 23–29 May 2018  •SC: N  •SS: 1094  SDS: 16.5  LMŠ: 8.9  SD: 5.4  SMC: 4.0  LEVICA: 5.7  NSI: 4.3  SAB: 2.8  DESUS: 4.2  SNS: 3.8  SLS: 2.0  ZD: 0.1  NLS:    •O: 0.3  •N: 33.9
 ‡ •PF: Valicon   •FS/FE: 25–27 May 2018  •SC: N  •SS: 770  SDS: 13.8  LMŠ: 11.0  SD: 9.5  SMC: 4.4  LEVICA: 7.8  NSI: 4.5  SAB: 2.6  DESUS: 3.8  SNS: 4.0  SLS: 2.2  ZD: 0.5  NLS:    •N: 20.1
 ‡ •PF: Mediana/RTVSLO     •FS/FE: 25 May 2018  •SC: N  •SS: 1123  SDS: 15.0  LMŠ: 10.3  SD: 4.8  SMC: 4.3  LEVICA: 4.1  NSI: 3.6  SAB: 3.0  DESUS: 4.2  SNS: 3.4  SLS: 2.0  ZD: 0.4  NLS:    •O: 9.5  •N: 33.6
 ‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 22–25 May 2018  •SC: N  •SS: 985  SDS: 15.6  LMŠ: 7.7  SD: 5.6  SMC: 5.2  LEVICA: 3.6  NSI: 5.4  SAB: 0.9  DESUS: 4.5  SNS: 3.5  SLS: 2.8  ZD: 1.9  NLS:    •O: 1.3  •N: 39.2
 ‡ •PF: Ninamedia/Dnevnik/Večer   •FS/FE: 21–23 May 2018  •SC: N  •SS: 900  SDS: 15.6  LMŠ: 9.5  SD: 8.4  SMC: 5.5  LEVICA: 4.6  NSI: 3.9  SAB: 1.0  DESUS: 4.9  SNS: 1.5  SLS: 1.2  ZD: 0.1  NLS:    •N: 41.0
-‡ •PF: Episcenter    •FS/FE: 22 May 2018  •SC: N  •SS: 747  SDS: 25.6  LMŠ: 14.7  SD: 16.1  SMC: 5.6  LEVICA: 8.5  NSI: 8.2  SAB: 2.8  DESUS: 4.9  SNS: 2.1  SLS: 2.8  ZD:    •N: 0.0
+‡ •PF: Episcenter    •FS/FE: 22 May 2018  •SC: N  •SS: 747  SDS: 25.6  LMŠ: 14.7  SD: 16.1  SMC: 5.6  LEVICA: 8.5  NSI: 8.2  SAB: 2.8  DESUS: 4.9  SNS: 2.1  SLS: 2.8  ZD:
 ‡ •PF: Ninamedia/Mladina   •FS/FE: 21–22 May 2018  •SC: N  •SS: 600  SDS: 18.9  LMŠ: 10.2  SD: 11.2  SMC: 7.3  LEVICA: 5.4  NSI: 4.8  DESUS: 6.6  ZD:    •N: 25.7
 ‡ •PF: Mediana/SiOL/Planet TV   •FS/FE: 12–22 May 2018  •SC: N  •SS: 1050  SDS: 14.7  LMŠ: 9.8  SD: 4.9  SMC: 4.7  LEVICA: 4.0  NSI: 3.8  SAB: 3.1  DESUS: 3.7  SNS: 3.0  SLS: 1.9  ZD: 0.3  NLS:    •O: 0.3  •N: 35.1
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 20 May 2018  •SC: N  •SS: 743  SDS: 14.9  LMŠ: 9.7  SD: 6.5  SMC: 4.5  LEVICA: 4.5  NSI: 3.3  SAB: 3.1  DESUS: 3.9  SNS: 3.1  SLS: 1.7  ZD:    •N: 31.9
@@ -742,10 +744,10 @@ ZD: SI201801 •A: ZD •EN: United Right •SL: Združena desnica
 ‡ •PF: Valicon   •FS/FE: 4–7 May 2018  •SC: N  •SS: 6483  SDS: 13.6  LMŠ: 13.6  SD: 13.4  SMC: 5.8  LEVICA: 6.7  NSI: 4.9  SAB: 2.8  DESUS: 4.2  SNS: 2.1  SLS: 2.0  ZD: 1.2  NLS:    •O: 4.3  •N: 16.3
 ‡ •C: Delo    •FS/FE: 2–5 May 2018  •SC: N  •SS: 1008  SDS: 17.2  LMŠ: 15.3  SD: 10.5  SMC: 4.7  LEVICA: 6.4  NSI: 5.7  SAB: 3.0  DESUS: 3.6  SNS: 1.9  SLS: 2.2  ZD: 0.5  NLS:    •O: 7.8  •N: 17.4
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 22 Apr 2018  •SC: N  •SS: 711  SDS: 13.5  LMŠ: 13.3  SD: 8.5  SMC: 4.4  LEVICA: 4.1  NSI: 3.5  SAB: 1.7  DESUS: 2.6  SNS: 1.1  SLS: 1.4  ZD: 0.6  NLS:  PS: 0.2   •N: 38.4
-‡ •PF: Valicon   •FS/FE: 4–22 Apr 2018  •SC: N  •SS: 2187  SDS: 17.1  LMŠ: 11.5  SD: 18.0  SMC: 10.8  LEVICA: 8.2  NSI: 7.2  SAB: 3.5  DESUS: 5.2  SNS: 2.1  SLS: 1.9  ZD: 1.4  NLS:    •N: 0.0
+‡ •PF: Valicon   •FS/FE: 4–22 Apr 2018  •SC: N  •SS: 2187  SDS: 17.1  LMŠ: 11.5  SD: 18.0  SMC: 10.8  LEVICA: 8.2  NSI: 7.2  SAB: 3.5  DESUS: 5.2  SNS: 2.1  SLS: 1.9  ZD: 1.4  NLS:
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS/FE: 9-11 Apr 2018  •SC: N  •SS: 700  SDS: 11.6  LMŠ: 11.9  SD: 12.2  SMC: 7.0  LEVICA: 5.0  NSI: 4.1  SAB: 0.2  DESUS: 4.3     •O: 4.7  •N: 39.0
 ‡ •C: Delo    •FS/FE: 29 Mar-5 Apr 2018  •SC: N  •SS: 1010  SDS: 12.7  LMŠ: 15.1  SD: 12.0  SMC: 8.4  LEVICA: 4.9  NSI: 6.0  SAB: 2.6  DESUS: 3.2     •O: 7.6  •N: 18.0
-‡ •PF: Valicon   •FS/FE: 7 Mar-3 Apr 2018  •SC: N  •SS: 2963  SDS: 17.9  LMŠ: 15.9  SD: 16.8  SMC: 8.8  LEVICA: 6.7  NSI: 7.8  SAB: 2.3  DESUS: 5.2  SNS: 2.1  SLS: 2.0  ZD: 1.3  NLS:    •N: 0.0
+‡ •PF: Valicon   •FS/FE: 7 Mar-3 Apr 2018  •SC: N  •SS: 2963  SDS: 17.9  LMŠ: 15.9  SD: 16.8  SMC: 8.8  LEVICA: 6.7  NSI: 7.8  SAB: 2.3  DESUS: 5.2  SNS: 2.1  SLS: 2.0  ZD: 1.3  NLS:
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 25 Mar 2018  •SC: N  •SS: 717  SDS: 10.8  LMŠ: 14.6  SD: 8.8  SMC: 5.8  LEVICA: 4.2  NSI: 3.8  SAB: 1.8  DESUS: 3.3  SNS: 1.3  SLS: 0.6  ZD: 1.0  NLS:  PS: 0.5   •O: 0.5  •N: 38.9
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik    •FS/FE: 13–15 Mar 2018  •SC: N  •SS: 700  SDS: 11.7  LMŠ: 12.4  SD: 12.7  SMC: 7.6  LEVICA: 3.6  NSI: 4.8  SAB: 0.2  DESUS: 4.9     •O: 3.2  •N: 38.8
 ‡ •PF: SNS   •FS/FE: 10–14 Mar 2018  •SC: N  •SS: 1000  SDS: 18.3  LMŠ: 16.4  SD: 12.9  SMC: 4.1  LEVICA: 3.2  NSI: 5.3  SAB: 1.2  DESUS: 4.9  SNS: 4.1  SLS: 2.2  ZD: 0.5  NLS:  PS: 0.7   •O: 4.6  •N: 21.6
@@ -761,13 +763,11 @@ ZD: SI201801 •A: ZD •EN: United Right •SL: Združena desnica
 ‡ •C: Delo    •FS/FE: 3–6 Jan 2018  •SC: N  •SS: 1015  SDS: 15.8  LMŠ: 12.9  SD: 12.1  SMC: 8.0  LEVICA: 4.8  NSI: 6.5  SAB: 1.2  DESUS: 4.8  SNS: 2.6      •O: 6.8  •N: 24.5
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 25 Dec 2017  •SC: N  •SS: 709  SDS: 10.6  LMŠ: 8.1  SD: 10.3  SMC: 5.4  LEVICA: 5.7  NSI: 2.3  SAB: 1.9  DESUS: 4.8  SNS: 1.6  SLS: 0.8  GOD: 1.6  NLS: 0.3    •O: 1.0  •N: 42.4
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik   •FS/FE: 12–14 Dec 2017  •SC: N  •SS: 700  SDS: 12.9  LMŠ: 5.5  SD: 11.9  SMC: 8.0  LEVICA: 5.1  NSI: 4.2  DESUS: 6.3      •N: 41.1
-‡ •C: Delo     •FS/FE: 4–7 Dec 2017  •SC: N  •SS: 1016  SDS: 12.2  LMŠ: 15.7  SD: 12.6  SMC: 5.5  LEVICA: 5.3  NSI: 6.1  DESUS: 6.4      •N: 0.0
+‡ •C: Delo     •FS/FE: 4–7 Dec 2017  •SC: N  •SS: 1016  SDS: 12.2  LMŠ: 15.7  SD: 12.6  SMC: 5.5  LEVICA: 5.3  NSI: 6.1  DESUS: 6.4
 ‡ •PF: Ninamedia •C: RTV Slovenija •C: Dnevnik   •FS/FE: 14–16 Nov 2017  •SC: N  •SS: 700  SDS: 13.6  LMŠ: 3.0  SD: 13.1  SMC: 8.1  LEVICA: 5.4  NSI: 4.8  DESUS: 5.8      •N: 39.9
 ‡ •PF: Mediana •C: POP TV   •FS/FE: 11 Nov 2017  •SC: N  •SS: 700  SDS: 13.9   SD: 11.8  SMC: 5.2  LEVICA: 4.7  NSI: 4.5  SAB: 1.1  DESUS: 5.8  SNS: 2.5  SLS: 2.8  GOD: 1.2  NLS: 0.6  PS: 1.4   •O: 1.3  •N: 43.5
 ‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 6–8 Nov 2017  •SC: N  •SS: 792  SDS: 15.8   SD: 11.2  SMC: 4.9  LEVICA: 3.3  NSI: 1.7  SAB: 0.2  DESUS: 3.6  SNS: 2.5  SLS: 2.4  GOD: 2.1  NLS: 1.3    •O: 2.7  •N: 47.3
-‡ •PF: Episcenter/Delo   •FS/FE: 2–8 Nov 2017  •SC: N  •SS: 1010  SDS: 13.8   SD: 19.8  SMC: 7.0  LEVICA: 7.5  NSI: 7.1  DESUS: 4.3      •N: 0.0
-‡ •C: Delo     •FS/FE: 28 Sep-5 Oct 2017  •SC: N  •SS: 1020  SDS: 15.0   SD: 16.4  SMC: 11.9  LEVICA: 6.7  NSI: 7.1  DESUS: 5.5  SNS: 1.4  SLS: 2.0  GOD: 2.1     •N: 0.0
-‡ •PF: Parsifal •C: Nova24TV   •FS/FE: 2–6 Oct 2017  •SC: N  •SS: 722  SDS: 15.6   SD: 10.3  SMC: 6.5  LEVICA: 3.3  NSI: 6.7  SAB: 0.3  DESUS: 4.4  SNS: 2.8  SLS: 2.3  GOD: 2.1  NLS: 0.3    •O: 1.0  •N: 43.7
+‡ •PF: Episcenter/Delo   •FS/FE: 2–8 Nov 2017  •SC: N  •SS: 1010  SDS: 13.8   SD: 19.8  SMC: 7.0  LEVICA: 7.5  NSI: 7.1  DESUS: 4.3
 ‡ Named alliances:
 ‡ LEVICA = IDS + TRS
 ‡ POS = K + SLS + ZS + NLS + NS
