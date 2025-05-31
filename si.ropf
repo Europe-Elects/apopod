@@ -761,13 +761,13 @@ ZD:          SI201801 •A: ZD          •EN: United Right                     
 ZL:          SI201401 •A: ZL          •EN: United Left                                   •SL: Združena levica
 ZS:          SI198903 •A: ZS          •EN: Greens of Slovenia                            •SL: Zeleni Slovenije
 
-‡ •PF: Mediana •C: POP TV   •FS/FE: 31 May 2018  •SC: N  •SS: 1037  SDS: 23.7  LMŠ: 11.2  SD: 7.8  SMC: 7.7  LEVICA: 7.9  NSI: 5.7  SAB: 5.7  DESUS: 4.5  SNS: 4.0  SLS: 2.5     •O: 6.7  •N: 9.7
-‡ •PF: Ninamedia •C: Dnevnik •C: Večer   •FS/FE: 31 May 2018  •SC: N  •SS: 900  SDS: 26.1  LMŠ: 11.5  SD: 12.8  SMC: 9.8  LEVICA: 8.3  NSI: 7.3  SAB: 3.2  DESUS: 7.9  SNS: 3.4  SLS: 3.8     •O: 5.9
-‡ •PF: Valicon   •FS/FE: 28–31 May 2018  •SC: N  •SS: 2255  SDS: 15.1  LMŠ: 10.7  SD: 11.5  SMC: 7.1  LEVICA: 7.9  NSI: 6.2  SAB: 3.8  DESUS: 4.2  SNS: 3.3  SLS: 2.5  ZD: 0.4      •N: 12.9
-‡ •PF: Mediana •C: RTV Slovenija   •FS/FE: 26–31 May 2018  •SC: N  •SS: 1037  SDS: 16.5  LMŠ: 8.3  SD: 5.6  SMC: 4.4  LEVICA: 6.9  NSI: 4.6  SAB: 3.2  DESUS: 3.9  SNS: 4.1  SLS: 1.5     •N: 29.9
-‡ •PF: Mediana •C: Delo   •FS/FE: 25–30 May 2018  •SC: N  •SS: 1006  SDS: 16.3  LMŠ: 7.6  SD: 5.5  SMC: 4.8  LEVICA: 6.8  NSI: 4.7  SAB: 2.7  DESUS: 4.7  SNS: 3.9  SLS: 2.1  ZD: 0.1      •N: 33.0
-‡ •PF: Mediana •C: Delo   •FS/FE: 25–30 May 2018  •SC: N  •SS: 584  SDS: 22.9  LMŠ: 8.2  SD: 6.7  SMC: 6.8  LEVICA: 6.6  NSI: 6.0  SAB: 3.9  DESUS: 5.1  SNS: 3.9  SLS: 3.4     DL:  •O: 7.0  •N: 19.5
-‡ •PF: Ninamedia •C: Dnevnik •C: Večer   •FS/FE: 29 May 2018  •SC: N  •SS: 900  SDS: 25.5  LMŠ: 13.7  SD: 12.5  SMC: 8.8  LEVICA: 6.6  NSI: 8.3  SAB: 3.9  DESUS: 8.1  SNS: 2.6  SLS: 2.4     •O: 7.6
+‡ •PF: Mediana •C: POP TV   •PD: 2018-06-01  •SC: N  •SS: 1037  SDS: 23.7  LMŠ: 11.2  SD: 7.8  SMC: 7.7  LEVICA: 7.9  NSI: 5.7  SAB: 5.7  DESUS: 4.5  SNS: 4.0  SLS: 2.5     •O: 6.7  •N: 9.7
+‡ •PF: Ninamedia •C: Dnevnik •C: Večer   •PD: 2018-05-31   •SC: N  •SS: 900  SDS: 26.1  LMŠ: 11.5  SD: 12.8  SMC: 9.8  LEVICA: 8.3  NSI: 7.3  SAB: 3.2  DESUS: 7.9  SNS: 3.4  SLS: 3.8     •O: 5.9
+‡ •PF: Valicon   •FS: 2018-05-28 •FE: 2018-05-31   •SC: N  •SS: 2255  SDS: 15.1  LMŠ: 10.7  SD: 11.5  SMC: 7.1  LEVICA: 7.9  NSI: 6.2  SAB: 3.8  DESUS: 4.2  SNS: 3.3  SLS: 2.5  ZD: 0.4      •N: 12.9
+‡ •PF: Mediana •C: RTV Slovenija   •FS: 2018-05-26 •FE: 2018-05-31   •SC: N  •SS: 1037  SDS: 16.5  LMŠ: 8.3  SD: 5.6  SMC: 4.4  LEVICA: 6.9  NSI: 4.6  SAB: 3.2  DESUS: 3.9  SNS: 4.1  SLS: 1.5     •N: 29.9
+‡ •PF: Mediana •C: Delo   •FS: 2018-05-25 •FE: 2018-05-30   •SC: N  •SS: 1006  SDS: 16.3  LMŠ: 7.6  SD: 5.5  SMC: 4.8  LEVICA: 6.8  NSI: 4.7  SAB: 2.7  DESUS: 4.7  SNS: 3.9  SLS: 2.1  ZD: 0.1      •N: 33.0
+‡ •PF: Mediana •C: Delo   •FS: 2018-05-25 •FE: 2018-05-30   •SC: N  •SS: 584  SDS: 22.9  LMŠ: 8.2  SD: 6.7  SMC: 6.8  LEVICA: 6.6  NSI: 6.0  SAB: 3.9  DESUS: 5.1  SNS: 3.9  SLS: 3.4     DL:  •O: 7.0  •N: 19.5
+‡ •PF: Ninamedia •C: Dnevnik •C: Večer   •PD: 2018-05-29   •SC: N  •SS: 900  SDS: 25.5  LMŠ: 13.7  SD: 12.5  SMC: 8.8  LEVICA: 6.6  NSI: 8.3  SAB: 3.9  DESUS: 8.1  SNS: 2.6  SLS: 2.4     •O: 7.6
 ‡ Named alliances:
 ‡ LEVICA = IDS + TRS
 ‡ POS = K + SLS + ZS + NLS + NS
