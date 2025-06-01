@@ -1,10 +1,10 @@
-•PF: Novus         •C: TV4 •FS: 2025-05-05 •FE: 2025-05-18 •SC: N •SS: 2016 S: 34.5 SD: 20.4 M: 18.5 V: 7.2 KD: 2.9 MP: 5 L: 2.6 C: 6.5
-•PF: Verian         •C: SVT •FS: 2025-04-21 •FE: 2025-05-04 •SC: N •SS: 3234 S: 35.6 SD: 18.9 M: 18.1 V: 7.6 KD: 4.4 MP: 5.7 L: 2.8 C: 4.8
-•PF: Indikator         •C: Sveriges Radio •FS: 2025-04-11 •FE: 2025-04-28 •SC: N •SS: 2840 S: 35.4 SD: 18.2 M: 21.1 V: 7.6 KD: 3 MP: 5.7 L: 2.8 C: 4.1
-•PF: Demoskop         •C: Svenska Dagbladet •FS: 2025-04-10 •FE: 2025-04-22 •SC: N •SS: 2538 S: 33.6 SD: 18.3 M: 20.3 V: 7.6 KD: 3.9 MP: 6.6 L: 2.4 C: 4.8
-•PF: Ipsos         •C: Dagens Nyheter •FS: 2025-04-08 •FE: 2025-04-21 •SC: N •SS: 1653 S: 37 SD: 19 M: 19 V: 8 KD: 3 MP: 6 L: 2 C: 5
-•PF: Novus         •C: TV4 •FS: 2025-04-07 •FE: 2025-04-21 •SC: N •SS: 2086 S: 36.7 SD: 19.2 M: 19.9 V: 8.1 KD: 3.2 MP: 4.6 L: 2.5 C: 4.3
-•PF: Verian    •C: SVT                               •FS: 2025-03-24 •FE: 2025-04-06 •SC: N •SS: 3231 V: 7.7 S: 35.5 MP: 5.9 C: 3.6 L: 2.8 M: 20.3 KD: 3.4 SD: 18.7
+•PF: Novus     •C: TV4                               •FS: 2025-05-05 •FE: 2025-05-18 •SC: N •SS: 2016 V: 7.2 S: 34.5 MP: 5 C: 6.5 L: 2.6 M: 18.5 KD: 2.9 SD: 20.4
+•PF: Verian    •C: SVT                               •FS: 2025-04-21 •FE: 2025-05-04 •SC: N •SS: 3234 V: 7.6 S: 35.6 MP: 5.7 C: 4.8 L: 2.8 M: 18.1 KD: 4.4 SD: 18.9   •O: 2.1
+•PF: Indikator •C: Sveriges Radio                    •FS: 2025-04-11 •FE: 2025-04-28 •SC: N •SS: 2840 V: 7.6 S: 35.4 MP: 5.7 C: 4.1 L: 2.8 M: 21.1 KD: 3 SD: 18.2     •O: 2.1
+•PF: Demoskop  •C: Svenska Dagbladet                 •FS: 2025-04-10 •FE: 2025-04-22 •SC: N •SS: 2538 V: 7.6 S: 33.6 MP: 6.6 C: 4.8 L: 2.4 M: 20.3 KD: 3.9 SD: 18.3   •O: 2.5
+•PF: Ipsos     •C: Dagens Nyheter                    •FS: 2025-04-08 •FE: 2025-04-21 •SC: N •SS: 1653 V: 8 S: 37 MP: 6 C: 5 L: 2 M: 19 KD: 3 SD: 19                   •O: 1.0
+•PF: Novus     •C: TV4                               •FS: 2025-04-07 •FE: 2025-04-21 •SC: N •SS: 2086 V: 8.1 S: 36.7 MP: 4.6 C: 4.3 L: 2.5 M: 19.9 KD: 3.2 SD: 19.2   •O: 1.5
+•PF: Verian    •C: SVT                               •FS: 2025-03-24 •FE: 2025-04-06 •SC: N •SS: 3231 V: 7.7 S: 35.5 MP: 5.9 C: 3.6 L: 2.8 M: 20.3 KD: 3.4 SD: 18.7   •O: 2.1
 •PF: Demoskop  •C: Aftonbladet •C: Svenska Dagbladet •FS: 2025-03-13 •FE: 2025-03-24 •SC: N •SS: 2410 V: 7.5 S: 33.9 MP: 6.6 C: 4.2 L: 2.7 M: 18.8 KD: 4.6 SD: 19.7   •O: 2.0
 •PF: Novus                                           •FS: 2025-03-07 •FE: 2025-03-21 •SC: N •SS: 2343 V: 8.6 S: 34.6 MP: 5.3 C: 4.3 L: 2.6 M: 20.3 KD: 3.2 SD: 19.4   •O: 1.7
 •PF: Ipsos     •C: Dagens Nyheter                    •FS: 2025-03-04 •FE: 2025-03-16 •SC: N •SS: 1706 V: 8 S: 35 MP: 5 C: 4 L: 3 M: 20 KD: 3 SD: 20                   •O: 2
