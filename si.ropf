@@ -178,10 +178,11 @@
 •PF: Ninamedia   •C: Dnevnik •C: Večer                  •FS: 2021-07-13 •FE: 2021-07-15                 •SC: N •SS: 700            SDS: 18.2 SD: 12.7 LEVICA: 10.1 LMŠ: 9.2 NSI: 4.7 SAB: 3.6 SLS: 1.1 DESUS: 0.7 SNS: 0.6 SMC: 0.3                                                                     •O: 2.7  •N: 36.1
 •PF: Mediana     •C: Delo                               •FS: 2021-07-05 •FE: 2021-07-07                 •SC: N •SS: 710            SDS: 17.3 SD: 11.7 LEVICA: 8.4 LMŠ: 7.7 NSI: 5.7 DESUS: 3.4 PSS: 3.2 SAB: 3.2 DD: 2.0 ZS: 1.6 SLS: 1.2 SNS: 0.9 SMC: 0.4                                                      •N: 31.8
 •PF: Mediana     •C: POP TV                                                             •PD: 2021-06-27 •SC: N •SS: 711            SDS: 18.9 SD: 9.5 LEVICA: 9.4 LMŠ: 8.4 NSI: 4.9 SAB: 3.2 PSS: 2.6 DESUS: 2.1 ZS: 1.7 SLS: 1.6                                                                                 •N: 32.8
+•PF: Parsifal SC •C: Nova24TV                           •FS: 2021-06-15 •FE: 2021-06-18                 •SC: N •SS: 708            SDS: 18.8 LMŠ: 11.6 SD: 10.8 LEVICA: 5.3 DESUS: 3.8 NSI: 3.7 PSS: 1.9 SAB: 1.7 DD: 1.6 ND: 1.5 SNS: 1.5 SMC: 0.9 POS: 0.8 ZDEJ: 0.4                                  •O: 0.8  •N: 34.9
 •PF: Ninamedia   •C: Dnevnik •C: Večer                  •FS: 2021-06-15 •FE: 2021-06-17                 •SC: N •SS: 700            SDS: 19.1 SD: 12.0 LMŠ: 8.8 LEVICA: 6.9 NSI: 6.5 SAB: 3.4 SLS: 2.3 SNS: 1.1 DESUS: 0.9 SMC: 0.6                                                                      •O: 0.8  •N: 37.4
-•PF: Episcenter  •C: Domovina                           •FS: 2021-06-10 •FE: 2021-06-15                 •SC: N •SS: 566            SDS: 23.2 LMŠ: 21.1 SD: 17.9 LEVICA: 10.5 NSI: 10.5 SAB: 5.3 PSS: 3.2 DD: 2.1                                                                                        •O: 1.1                     •VS: 94.9
+•PF: Episcenter  •C: Domovina                           •FS: 2021-06-10 •FE: 2021-06-15                 •SC: N •SS: 800            SDS: 22 LMŠ: 20 SD: 17 LEVICA: 10 NSI: 10 SAB: 5 PSS: 3 DD: 2 POS: 2 ZDEJ: 2 ND: 1 DESUS: <1 SNS: <1                                                                 •O: 1    •N: 5
 •PF: Mediana     •C: Delo                               •FS: 2021-06-07 •FE: 2021-06-10                 •SC: N •SS: 710            SDS: 17.3 SD: 10.8 LMŠ: 9.7 LEVICA: 8.6 NSI: 3.5 DESUS: 2.7 SAB: 2.3 DD: 2.0 PSS: 1.9 SNS: 1.7 ZS: 1.7 SLS: 1.6 SMC: 0.5                                             •O: 2.3  •N: 32.0           •VS: 98.6
-•PF: Parsifal SC •C: Planet TV                          •FS: 2021-05-24 •FE: 2021-05-26                 •SC: N •SS: 752            SDS: 30.2 LMŠ: 15.7 SD: 14.9 LEVICA: 8 NSI: 7.9 DESUS: 3.9 SNS: 3 PSS: 2.5 SAB: 2.5 SMC: 1.7 DD: 0.3                                                                 •O: 9.4
+•PF: Parsifal SC •C: Planet TV                          •FS: 2021-05-24 •FE: 2021-05-26                 •SC: N •SS: 752            SDS: 18.0 LMŠ: 9.4 SD: 8.9 LEVICA: 4.8 NSI: 4.7 DESUS: 2.3 SNS: 1.8 ND: 1.7 POS: 1.7 PSS: 1.5 SAB: 1.5 SMC: 1.0 ZDEJ: 0.7 DD: 0.2                                    •O: 1.5  •N: 40.6
 •PF: Mediana     •C: POP TV                                                             •PD: 2021-05-24 •SC: N •SS: 711            SDS: 18.2 SD: 10.0 LMŠ: 9.0 LEVICA: 8.4 NSI: 4.5 SAB: 2.7 DESUS: 2.5 SLS: 2.2 ZS: 1.8 PSS: 1.5 SNS: 1.4 DD: 1.1 SMC: 0.8                                             •O: 3.1  •N: 33.1
 •PF: Ninamedia   •C: Dnevnik •C: Večer                  •FS: 2021-05-11 •FE: 2021-05-13                 •SC: N •SS: 700            SDS: 18.0 SD: 13.1 LMŠ: 8.2 LEVICA: 7.3 NSI: 7.3 SAB: 3.6 SLS: 1.9 SNS: 1.0 SMC: 0.6 DESUS: 0.5                                                                      •O: 1.0  •N: 37.3
 •PF: Parsifal SC •C: Nova24TV                           •FS: 2021-05-10 •FE: 2021-05-13                 •SC: N •SS: 726            SDS: 21.0 SD: 11.5 LMŠ: 7.9 LEVICA: 5.0 NSI: 4.6 NLS+SLS: 3.9 DESUS: 2.3 PSS: 1.9 ND: 1.7 SNS: 1.7 DD: 1.2 SAB: 0.9 SMC: 0.7                                         •O: 1.1  •N: 34.7
@@ -770,7 +771,7 @@ ND:          SI202101 •A: ND          •EN: Our Country                      
 NLS:         SI201601 •A: NLS         •EN: New People’s Party of Slovenia                •SL: Nova ljudska stranka Slovenije
 NP:          SI022    •A: NP          •EN: Our Future                                    •SL: Naša prihodnost
 NSI:         SI200001 •A: NSi         •EN: New Slovenia – Christian Democrats            •SL: Nova Slovenija – Krščanski demokrati
-POS:         SI014    •A: PoS         •EN: Let’s Connect Slovenia                        •SL: Povežimo Slovenijo
+POS:         SI202102 •A: PoS         •EN: Let’s Connect Slovenia                        •SL: Povežimo Slovenijo
 PREBILIČ:    SI024    •A: Prebilič                                                       •SL: Vladimir Prebilič
 PS:          SI201102 •A: PS          •EN: Positive Slovenia                             •SL: Pozitivna Slovenija
 PSS:         SI201201 •A: PSS         •EN: Pirate Party of Slovenia                      •SL: Piratska stranka Slovenije
@@ -789,6 +790,7 @@ VERJAMEM:    SI201403 •A: Verjamem    •EN: I believe                        
 VESNA:       SI021    •A: VESNA       •EN: VESNA – Green Party                           •SL: VESNA – zelena stranka
 ZARES:       SI200701 •A: Zares       •EN: Zares – Social Liberals                       •SL: Zares – socialno-liberalni)
 ZD:          SI201801 •A: ZD          •EN: United Right                                  •SL: Združena desnica
+ZDEJ:        SI202103 •A: Z.DEJ       •EN: Green Actions Party                           •SL: Stranka Zelenih Dejanj
 ZL:          SI201401 •A: ZL          •EN: United Left                                   •SL: Združena levica
 ZS:          SI198903 •A: ZS          •EN: Greens of Slovenia                            •SL: Zeleni Slovenije
 
