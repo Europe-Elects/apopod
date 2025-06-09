@@ -47,14 +47,14 @@
 •PF: Ipsos                       •C: Sunday Times                •FS: 2014-02-20 •FE: 2014-03-11 •SC: N •SS: 2222         ANC: 61.0 DA: 20.5 EFF: 3.4                                                                 •N: 7.4
 •PF: Ipsos                       •C: Pulse of the People         •FS: 2013-10    •FE: 2013-11    •SC: N •SS: 3564         ANC: 53 DA: 18 EFF: 4 ACDP: 1 AGANGSA: 1 COPE: 1 IFP: 1                            •O: 2    •N: 19
 
-ACDP:     ZA007 •A: ACDP                                 •EN: African Christian Democratic Party
-ACTIONSA: ZA006 •A: ActionSA                             •EN: ActionSA
-AGANGSA:  ZA011 •A: Agang SA                             •EN: Build South Africa                 •TN: Agang South Africa
-ANC:      ZA001 •A: ANC                                  •EN: African National Congress
-COPE:     ZA010 •A: COPE                                 •EN: Congress of the People
-DA:       ZA002 •A: DA       •AF: Demokratiese Alliansie •EN: Democratic Alliance
-EFF:      ZA003 •A: EFF                                  •EN: Economic Freedom Fighters
-IFP:      ZA004 •A: IFP                                  •EN: Inkatha Freedom Party                                      •ZU: IQembu leNkatha yeNkululeko
-MK:       ZA008 •A: MK                                   •EN: Spear of the Nation                                        •ZU: uMkhonto weSizwe
-PA:       ZA009 •A: PA                                   •EN: Patriotic Alliance
-VFPLUS:   ZA005 •A: VF Plus  •AF: Vryheidsfront Plus     •EN: Freedom Front Plus
+ACDP:     ZA199301 •A: ACDP                                 •EN: African Christian Democratic Party
+ACTIONSA: ZA202001 •A: ActionSA                             •EN: ActionSA
+AGANGSA:  ZA201302 •A: Agang SA                             •EN: Build South Africa                 •TN: Agang South Africa
+ANC:      ZA191201 •A: ANC                                  •EN: African National Congress
+COPE:     ZA200801 •A: COPE                                 •EN: Congress of the People
+DA:       ZA200001 •A: DA       •AF: Demokratiese Alliansie •EN: Democratic Alliance
+EFF:      ZA201301 •A: EFF                                  •EN: Economic Freedom Fighters
+IFP:      ZA197501 •A: IFP                                  •EN: Inkatha Freedom Party                                      •ZU: IQembu leNkatha yeNkululeko
+MK:       ZA202301 •A: MK                                   •EN: Spear of the Nation                                        •ZU: uMkhonto weSizwe
+PA:       ZA201303 •A: PA                                   •EN: Patriotic Alliance
+VFPLUS:   ZA199401 •A: VF Plus  •AF: Vryheidsfront Plus     •EN: Freedom Front Plus
