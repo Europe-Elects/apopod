@@ -1,5 +1,5 @@
-•PF: Promocija plus         •C: RTL •FS: 2025-06-03 •FE: 2025-06-06 •SC: N •SS: 1300 •EX: 17.4 HDZ: 29.1 SDP: 23.8 MOŽEMO: 9.8 DP: 2.3 MOST: 5.5 FOKUS: 0.3 CENTAR: 1.5 IDSDDI: 1.1 DOMINO: 2.2 MSRNL: 2.4 PIP: 0.5 NPS: 1.1 HSS: 0.7 HSU: 0.6 HS: 0.6 HSLS: 0.5 RF: 0.3 HNSLD: 0.6
-•PF: Ipsos         •C: Nova TV •FS: 2025-05-01 •FE: 2025-05-20 •SC: N •SS: 989 •N: 11.8 HDZ: 29.6 SDP: 23.5 MOŽEMO: 9.7 DP: 2.7 MOST: 6.2 IDSDDI: 2.7
+•PF: Promocija plus   •C: RTL           •FS: 2025-06-03 •FE: 2025-06-06 •PD: 2025-06-08 •SC: N •SS: 1300           HDZ: 29.1 SDP: 23.8 DP: 2.3 DOMINO: 2.2 PIP: 0.5 MOŽEMO: 9.8 MOST: 5.5 HS: 0.6 FOKUS: 0.3 IDSDDI: 1.1 NPS: 1.1 RF: 0.3 CENTAR: 1.5 HSS: 0.7 HSU: 0.6 HNSLD: 0.6 HSLS: 0.5         •O: 4.0  •N: 15.5
+•PF: Ipsos            •C: Nova TV       •FS: 2025-05-01 •FE: 2025-05-20 •PD: 2025-05-24 •SC: N •SS: 989            HDZ: 29.6 SDP: 23.5 DP: 2.7 MOŽEMO: 9.7 MOST: 6.2 IDSDDI: 2.7                                                                                                                              •N: 11.8
 •PF: 2x1 komunikacije •C: Večernji list •FS: 2025-04-22 •FE: 2025-04-29 •PD: 2025-05-01 •SC: N •SS: 1041           HDZ: 27.5 SDP: 23.2 DP: 2.2 DOMINO: 1.5 MOŽEMO: 7.9 MOST: 6.1 HS: 1.1 IDSDDI: 1.6 CENTAR: 1.2 HSS: 0.9 HSU: 1.9 HSLS: 0.9                                                                  •N: 17.4
 •PF: Ipsos            •C: Nova TV       •FS: 2025-04-01 •FE: 2025-04-20 •PD: 2025-04-25 •SC: N •SS: 990            HDZ: 25.8 SDP: 25.2 DP: 4.3 DOMINO: 2.5 MOŽEMO: 10.6 MOST: 5.7                                                                                                                             •N: 11.3
 •PF: Promocija plus   •C: RTL           •FS: 2025-04-01 •FE: 2025-04-04 •PD: 2025-04-06 •SC: N •SS: 1300           HDZ: 25.8 SDP: 26.4 DP: 2.5 DOMINO: 2.4 PIP: 1 MOŽEMO: 10.2 MOST: 7 HS: 0.5 FOKUS: 0.6 IDSDDI: 1.1 NPS: 1.2 RF: 0.8 CENTAR: 1.1 HSS: 1 HNSLD: 1.1 OIP: 0.8 HSLS: 0.5                       •N: 13.7
@@ -241,8 +241,8 @@
 •PF: IPSOS PULS       •C: Nova TV       •FS: 2018-12-01 •FE: 2018-12-20                 •SC: N •SS: 982  •EX: 28.9 HDZ: 28.9 SDP: 14.8 MOST: 6.3 IDSDDI: 1.6 CENTAR: 2.5 HSS: 3.6 HNSLD: 1.8 KH: 14.9 BM365: 3.0 GLAS: 1.1 NHR: 1                                                                    •O: 11.8
 •PF: Ninamedia                          •FS: 2018-12-07 •FE: 2018-12-13                 •SC: N •SS: 959  •EX: 27.7 HDZ: 23.4 SDP: 17.1 MOST: 4.8 IDSDDI: 1.7 HSS: 0.9 HNSLD: 0.7 KH: 8.3 NHR: 3.2 GLAS: 2.9 BM365: 1.8                                                                               •O: 4.8
 •PF: Promocija plus   •C: HRT           •FS: 2018-12-08 •FE: 2018-12-08                 •SC: N           •EX: 12.8 HDZ: 28.1 SDP: 17.0 MOST: 7.3 IDSDDI: 1.5 CENTAR: 1.9 HSS: 3.1 HNSLD: 2.1 KH: 12.4 BM365: 2.7 NHR: 2.7 GLAS: 1.7                                                                  •O: 3.4
-•PF: 2x1 Komunikacije •C: CroElecto     •FS: 2018-11-23 •FE: 2018-11-23                 •SC: E                     HDZ: 25.5 SDP: 18.5 MOST: 7.8 HNSLD: 1.2 AK: 13.1 KH: 7.8 NHR: 7.6 HKS: 1.0
 •PF: 2x1 Komunikacije •C: CroElecto     •FS: 2018-11-23 •FE: 2018-11-23                 •SC: N           •EX: 16.0 HDZ: 27.2 SDP: 19.9 MOST: 6.1 IDSDDI: 1.7 CENTAR: 1.9 HSS: 0.9 HNSLD: 0.9 KH: 9.2 NHR: 5.5 GLAS: 3.0 BM365: 0.9                                                                   •O: 6.8
+•PF: 2x1 Komunikacije •C: CroElecto     •FS: 2018-11-23 •FE: 2018-11-23                 •SC: E                     HDZ: 25.5 SDP: 18.5 MOST: 7.8 HNSLD: 1.2 AK: 13.1 KH: 7.8 NHR: 7.6 HKS: 1.0
 •PF: IPSOS PULS       •C: Nova TV       •FS: 2018-11-01 •FE: 2018-11-20                 •SC: N •SS: 987  •EX: 29.3 HDZ: 29.3 SDP: 14.6 MOST: 6.0 IDSDDI: 1.5 CENTAR: 2.9 HSS: 3.6 HNSLD: 2.3 KH: 13.5 BM365: 3.8 NHR: 2.1                                                                            •O: 11
 •PF: Promocija plus   •C: HRT           •FS: 2018-11-08 •FE: 2018-11-08                 •SC: N •SS: 1300 •EX: 13.3 HDZ: 28.4 SDP: 17.4 MOST: 6.3 IDSDDI: 1.9 CENTAR: 1.9 HSS: 3.2 HNSLD: 1.7 KH: 12.1 BM365: 2.1                                                                                     •O: 11.7
 •PF: 2x1 Komunikacije •C: CroElecto     •FS: 2018-10-27 •FE: 2018-10-27                 •SC: N           •EX: 16.6 HDZ: 26.6 SDP: 19.8 MOST: 6.7 IDSDDI: 1.1 CENTAR: 1.4 HSS: 1.4 HNSLD: 0.9 KH: 9.2 NHR: 5.1 GLAS: 2.5 BM365: 0.5                                                                   •O: 8.2
@@ -308,3 +308,6 @@ START:  HR014 •A: START                                                       
 
 ‡ Named alliances:
 ‡ AK = …
+‡ Lists not yet qualified for registration:
+‡ •A: MSRNL: NL Marija Selak Raspudić
+‡ 2: •PF: Promocija plus •C: RTL •FS: 2025-06-03 •FE: 2025-06-06
